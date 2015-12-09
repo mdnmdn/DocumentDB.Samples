@@ -1,0 +1,101 @@
+### FUNCTION	: beHappy
+function() { 
+	return "wow!";
+}
+
+
+### FUNCTION: checkAddressCountry
+
+function(customer, country) {
+	var addrs = customer.addresses;
+	var found = false;
+	  
+	if (addrs && addrs.length > 0){
+		
+		if (country) 
+			country = country.toLowerCase();
+		
+		addrs.forEach(function(elem){
+			if (elem.country &&
+				elem.country.toLowerCase() === country){
+				
+				found = true;		
+			}
+		});				 
+	}
+	return found;
+}
+
+
+
+
+
+
+
+### SPROC: relevantOrdersSummary
+
+function(minAmount) {
+	var ctx = getContext(); 
+	var coll = ctx.getCollection();
+	
+	var response = ctx.getResponse();
+	
+	// shortuct __.chain()...
+	var result = coll.chain().filter(function(doc){
+		return doc.amounts.subTotal > minAmount;
+	}).map(function(doc){
+		return {
+			id: doc.id,
+			customer: doc.customer.companyName,
+			PONumber: doc.PONumber,
+			orderDate: doc.orderDate,
+			subTotal: doc.amounts.subTotals,
+			total: doc.amounts.totalDue,
+			rowsCount: doc.rows.length 
+		};
+	}).value();
+	
+}
+
+
+### SPROC: createDocumentWithName
+function(newObj) { 
+	var ctx = getContext();
+    var coll = ctx.getCollection();
+	
+	var response = ctx.getResponse();
+
+	if (!newObj) throw new Error("Missing new object");
+	if (!newObj.name) throw new Error("Missing 'name' property");
+	
+    coll.createDocument(coll.getSelfLink(),newObj,
+            function (err, documentCreated) {
+                if (err) throw new Error('Error' + err.message);
+                response.setBody(documentCreated)
+            });        
+}
+
+### SPROC:  sayHello
+function(name) { 
+	var ctx = getContext();    
+	var response = ctx.getResponse();
+	
+	var msg = "Hi!";
+
+	if (name) msg = "Hi " + name + "!";
+	
+	response.setBody(msg);
+}
+
+
+### SPROC:  sayHelloJsonized
+function(name) { 
+	var ctx = getContext();    
+	var response = ctx.getResponse();
+	
+	var msg = "Hi!";
+
+	if (name) msg = "Hi " + name + "!";
+	
+	response.setBody({message: msg});
+}

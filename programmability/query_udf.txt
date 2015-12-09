@@ -1,0 +1,5 @@
+SELECT udf.beHappy()
+
+
+SELECT * FROM c
+	WHERE udf.checkAddressCountry(c,'canada')

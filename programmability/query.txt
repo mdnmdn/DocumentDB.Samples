@@ -1,0 +1,55 @@
+-- Collection: Customers
+
+SELECT * FROM c
+
+
+SELECT c.id,c.firstName,c.lastName 
+	FROM c
+
+
+SELECT * FROM c
+	WHERE c.id = '3'
+
+
+SELECT *
+	FROM c
+	WHERE c.addresses.length > 1
+	
+	
+SELECT *
+	FROM c
+	WHERE array_length(c.addresses) > 1
+
+
+SELECT VALUE { 
+		id: c.id, 
+		company: c.company,
+		contact: c.lastName || ' ' ||  c.firstName,		
+		firstAddress: {
+			addr: c.addresses[0].address,
+			city: c.addresses[0].city,
+			country: c.addresses[0].country	
+		} 				
+	} 
+	FROM c
+	WHERE array_length(c.addresses) > 1 
+
+
+SELECT * FROM addr IN c.addresses
+	WHERE addr.country = 'Canada'
+	
+	
+SELECT addr,c 
+	FROM c
+	JOIN addr in c.addresses
+	
+		
+SELECT  c.id, 
+		c.company,
+		addr.country,
+		addr.city,
+		addr.address
+	FROM c
+	JOIN addr in c.addresses
+	WHERE addr.country = 'Canada'
+		AND addr.type = 'Main Office'

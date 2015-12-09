@@ -1,0 +1,3998 @@
+[
+            {
+                "productId":  864,
+                "name": "Classic Vest, S",
+                "productNumber": "VE-C304-S",
+                "color": "Blue",
+                "listPrice":  63.5000,
+                "size": "S",
+                "serie": "Classic Vest",
+                "type": "product",
+                "categories": [
+                    "Clothing",
+                    "Vests"
+                ]
+            },
+            {
+                "productId":  865,
+                "name": "Classic Vest, M",
+                "productNumber": "VE-C304-M",
+                "color": "Blue",
+                "listPrice":  63.5000,
+                "size": "M",
+                "serie": "Classic Vest",
+                "type": "product",
+                "categories": [
+                    "Clothing",
+                    "Vests"
+                ]
+            },
+            {
+                "productId":  866,
+                "name": "Classic Vest, L",
+                "productNumber": "VE-C304-L",
+                "color": "Blue",
+                "listPrice":  63.5000,
+                "size": "L",
+                "serie": "Classic Vest",
+                "type": "product",
+                "categories": [
+                    "Clothing",
+                    "Vests"
+                ]
+            },
+            {
+                "productId":  712,
+                "name": "AWC Logo Cap",
+                "productNumber": "CA-1098",
+                "color": "Multi",
+                "listPrice":  8.9900,
+                "serie": "Cycling Cap",
+                "type": "product",
+                "categories": [
+                    "Clothing",
+                    "Caps"
+                ]
+            },
+            {
+                "productId":  861,
+                "name": "Full-Finger Gloves, S",
+                "productNumber": "GL-F110-S",
+                "color": "Black",
+                "listPrice":  37.9900,
+                "size": "S",
+                "serie": "Full-Finger Gloves",
+                "type": "product",
+                "categories": [
+                    "Clothing",
+                    "Gloves"
+                ]
+            },
+            {
+                "productId":  862,
+                "name": "Full-Finger Gloves, M",
+                "productNumber": "GL-F110-M",
+                "color": "Black",
+                "listPrice":  37.9900,
+                "size": "M",
+                "serie": "Full-Finger Gloves",
+                "type": "product",
+                "categories": [
+                    "Clothing",
+                    "Gloves"
+                ]
+            },
+            {
+                "productId":  863,
+                "name": "Full-Finger Gloves, L",
+                "productNumber": "GL-F110-L",
+                "color": "Black",
+                "listPrice":  37.9900,
+                "size": "L",
+                "serie": "Full-Finger Gloves",
+                "type": "product",
+                "categories": [
+                    "Clothing",
+                    "Gloves"
+                ]
+            },
+            {
+                "productId":  858,
+                "name": "Half-Finger Gloves, S",
+                "productNumber": "GL-H102-S",
+                "color": "Black",
+                "listPrice":  24.4900,
+                "size": "S",
+                "serie": "Half-Finger Gloves",
+                "type": "product",
+                "categories": [
+                    "Clothing",
+                    "Gloves"
+                ]
+            },
+            {
+                "productId":  859,
+                "name": "Half-Finger Gloves, M",
+                "productNumber": "GL-H102-M",
+                "color": "Black",
+                "listPrice":  24.4900,
+                "size": "M",
+                "serie": "Half-Finger Gloves",
+                "type": "product",
+                "categories": [
+                    "Clothing",
+                    "Gloves"
+                ]
+            },
+            {
+                "productId":  860,
+                "name": "Half-Finger Gloves, L",
+                "productNumber": "GL-H102-L",
+                "color": "Black",
+                "listPrice":  24.4900,
+                "size": "L",
+                "serie": "Half-Finger Gloves",
+                "type": "product",
+                "categories": [
+                    "Clothing",
+                    "Gloves"
+                ]
+            },
+            {
+                "productId":  739,
+                "name": "HL Mountain Frame - Silver, 42",
+                "productNumber": "FR-M94S-42",
+                "color": "Silver",
+                "listPrice":  1364.5000,
+                "size":  "42",
+                "serie": "HL Mountain Frame",
+                "type": "product",
+                "categories": [
+                    "Components",
+                    "Mountain Frames"
+                ]
+            },
+            {
+                "productId":  740,
+                "name": "HL Mountain Frame - Silver, 44",
+                "productNumber": "FR-M94S-44",
+                "color": "Silver",
+                "listPrice":  1364.5000,
+                "size":  "44",
+                "serie": "HL Mountain Frame",
+                "type": "product",
+                "categories": [
+                    "Components",
+                    "Mountain Frames"
+                ]
+            },
+            {
+                "productId":  741,
+                "name": "HL Mountain Frame - Silver, 48",
+                "productNumber": "FR-M94S-52",
+                "color": "Silver",
+                "listPrice":  1364.5000,
+                "size":  "48",
+                "serie": "HL Mountain Frame",
+                "type": "product",
+                "categories": [
+                    "Components",
+                    "Mountain Frames"
+                ]
+            },
+            {
+                "productId":  742,
+                "name": "HL Mountain Frame - Silver, 46",
+                "productNumber": "FR-M94S-46",
+                "color": "Silver",
+                "listPrice":  1364.5000,
+                "size":  "46",
+                "serie": "HL Mountain Frame",
+                "type": "product",
+                "categories": [
+                    "Components",
+                    "Mountain Frames"
+                ]
+            },
+            {
+                "productId":  743,
+                "name": "HL Mountain Frame - Black, 42",
+                "productNumber": "FR-M94B-42",
+                "color": "Black",
+                "listPrice":  1349.6000,
+                "size":  "42",
+                "serie": "HL Mountain Frame",
+                "type": "product",
+                "categories": [
+                    "Components",
+                    "Mountain Frames"
+                ]
+            },
+            {
+                "productId":  744,
+                "name": "HL Mountain Frame - Black, 44",
+                "productNumber": "FR-M94B-44",
+                "color": "Black",
+                "listPrice":  1349.6000,
+                "size":  "44",
+                "serie": "HL Mountain Frame",
+                "type": "product",
+                "categories": [
+                    "Components",
+                    "Mountain Frames"
+                ]
+            },
+            {
+                "productId":  745,
+                "name": "HL Mountain Frame - Black, 48",
+                "productNumber": "FR-M94B-48",
+                "color": "Black",
+                "listPrice":  1349.6000,
+                "size":  "48",
+                "serie": "HL Mountain Frame",
+                "type": "product",
+                "categories": [
+                    "Components",
+                    "Mountain Frames"
+                ]
+            },
+            {
+                "productId":  746,
+                "name": "HL Mountain Frame - Black, 46",
+                "productNumber": "FR-M94B-46",
+                "color": "Black",
+                "listPrice":  1349.6000,
+                "size":  "46",
+                "serie": "HL Mountain Frame",
+                "type": "product",
+                "categories": [
+                    "Components",
+                    "Mountain Frames"
+                ]
+            },
+            {
+                "productId":  747,
+                "name": "HL Mountain Frame - Black, 38",
+                "productNumber": "FR-M94B-38",
+                "color": "Black",
+                "listPrice":  1349.6000,
+                "size":  "38",
+                "serie": "HL Mountain Frame",
+                "type": "product",
+                "categories": [
+                    "Components",
+                    "Mountain Frames"
+                ]
+            },
+            {
+                "productId":  748,
+                "name": "HL Mountain Frame - Silver, 38",
+                "productNumber": "FR-M94S-38",
+                "color": "Silver",
+                "listPrice":  1364.5000,
+                "size":  "38",
+                "serie": "HL Mountain Frame",
+                "type": "product",
+                "categories": [
+                    "Components",
+                    "Mountain Frames"
+                ]
+            },
+            {
+                "productId":  680,
+                "name": "HL Road Frame - Black, 58",
+                "productNumber": "FR-R92B-58",
+                "color": "Black",
+                "listPrice":  1431.5000,
+                "size":  "58",
+                "serie": "HL Road Frame",
+                "type": "product",
+                "categories": [
+                    "Components",
+                    "Road Frames"
+                ]
+            },
+            {
+                "productId":  706,
+                "name": "HL Road Frame - Red, 58",
+                "productNumber": "FR-R92R-58",
+                "color": "Red",
+                "listPrice":  1431.5000,
+                "size":  "58",
+                "serie": "HL Road Frame",
+                "type": "product",
+                "categories": [
+                    "Components",
+                    "Road Frames"
+                ]
+            },
+            {
+                "productId":  717,
+                "name": "HL Road Frame - Red, 62",
+                "productNumber": "FR-R92R-62",
+                "color": "Red",
+                "listPrice":  1431.5000,
+                "size":  "62",
+                "serie": "HL Road Frame",
+                "type": "product",
+                "categories": [
+                    "Components",
+                    "Road Frames"
+                ]
+            },
+            {
+                "productId":  718,
+                "name": "HL Road Frame - Red, 44",
+                "productNumber": "FR-R92R-44",
+                "color": "Red",
+                "listPrice":  1431.5000,
+                "size":  "44",
+                "serie": "HL Road Frame",
+                "type": "product",
+                "categories": [
+                    "Components",
+                    "Road Frames"
+                ]
+            },
+            {
+                "productId":  719,
+                "name": "HL Road Frame - Red, 48",
+                "productNumber": "FR-R92R-48",
+                "color": "Red",
+                "listPrice":  1431.5000,
+                "size":  "48",
+                "serie": "HL Road Frame",
+                "type": "product",
+                "categories": [
+                    "Components",
+                    "Road Frames"
+                ]
+            },
+            {
+                "productId":  720,
+                "name": "HL Road Frame - Red, 52",
+                "productNumber": "FR-R92R-52",
+                "color": "Red",
+                "listPrice":  1431.5000,
+                "size":  "52",
+                "serie": "HL Road Frame",
+                "type": "product",
+                "categories": [
+                    "Components",
+                    "Road Frames"
+                ]
+            },
+            {
+                "productId":  721,
+                "name": "HL Road Frame - Red, 56",
+                "productNumber": "FR-R92R-56",
+                "color": "Red",
+                "listPrice":  1431.5000,
+                "size":  "56",
+                "serie": "HL Road Frame",
+                "type": "product",
+                "categories": [
+                    "Components",
+                    "Road Frames"
+                ]
+            },
+            {
+                "productId":  837,
+                "name": "HL Road Frame - Black, 62",
+                "productNumber": "FR-R92B-62",
+                "color": "Black",
+                "listPrice":  1431.5000,
+                "size":  "62",
+                "serie": "HL Road Frame",
+                "type": "product",
+                "categories": [
+                    "Components",
+                    "Road Frames"
+                ]
+            },
+            {
+                "productId":  838,
+                "name": "HL Road Frame - Black, 44",
+                "productNumber": "FR-R92B-44",
+                "color": "Black",
+                "listPrice":  1431.5000,
+                "size":  "44",
+                "serie": "HL Road Frame",
+                "type": "product",
+                "categories": [
+                    "Components",
+                    "Road Frames"
+                ]
+            },
+            {
+                "productId":  839,
+                "name": "HL Road Frame - Black, 48",
+                "productNumber": "FR-R92B-48",
+                "color": "Black",
+                "listPrice":  1431.5000,
+                "size":  "48",
+                "serie": "HL Road Frame",
+                "type": "product",
+                "categories": [
+                    "Components",
+                    "Road Frames"
+                ]
+            },
+            {
+                "productId":  840,
+                "name": "HL Road Frame - Black, 52",
+                "productNumber": "FR-R92B-52",
+                "color": "Black",
+                "listPrice":  1431.5000,
+                "size":  "52",
+                "serie": "HL Road Frame",
+                "type": "product",
+                "categories": [
+                    "Components",
+                    "Road Frames"
+                ]
+            },
+            {
+                "productId":  885,
+                "name": "HL Touring Frame - Yellow, 60",
+                "productNumber": "FR-T98Y-60",
+                "color": "Yellow",
+                "listPrice":  1003.9100,
+                "size":  "60",
+                "serie": "HL Touring Frame",
+                "type": "product",
+                "categories": [
+                    "Components",
+                    "Touring Frames"
+                ]
+            },
+            {
+                "productId":  887,
+                "name": "HL Touring Frame - Yellow, 46",
+                "productNumber": "FR-T98Y-46",
+                "color": "Yellow",
+                "listPrice":  1003.9100,
+                "size":  "46",
+                "serie": "HL Touring Frame",
+                "type": "product",
+                "categories": [
+                    "Components",
+                    "Touring Frames"
+                ]
+            },
+            {
+                "productId":  888,
+                "name": "HL Touring Frame - Yellow, 50",
+                "productNumber": "FR-T98Y-50",
+                "color": "Yellow",
+                "listPrice":  1003.9100,
+                "size":  "50",
+                "serie": "HL Touring Frame",
+                "type": "product",
+                "categories": [
+                    "Components",
+                    "Touring Frames"
+                ]
+            },
+            {
+                "productId":  889,
+                "name": "HL Touring Frame - Yellow, 54",
+                "productNumber": "FR-T98Y-54",
+                "color": "Yellow",
+                "listPrice":  1003.9100,
+                "size":  "54",
+                "serie": "HL Touring Frame",
+                "type": "product",
+                "categories": [
+                    "Components",
+                    "Touring Frames"
+                ]
+            },
+            {
+                "productId":  890,
+                "name": "HL Touring Frame - Blue, 46",
+                "productNumber": "FR-T98U-46",
+                "color": "Blue",
+                "listPrice":  1003.9100,
+                "size":  "46",
+                "serie": "HL Touring Frame",
+                "type": "product",
+                "categories": [
+                    "Components",
+                    "Touring Frames"
+                ]
+            },
+            {
+                "productId":  891,
+                "name": "HL Touring Frame - Blue, 50",
+                "productNumber": "FR-T98U-50",
+                "color": "Blue",
+                "listPrice":  1003.9100,
+                "size":  "50",
+                "serie": "HL Touring Frame",
+                "type": "product",
+                "categories": [
+                    "Components",
+                    "Touring Frames"
+                ]
+            },
+            {
+                "productId":  892,
+                "name": "HL Touring Frame - Blue, 54",
+                "productNumber": "FR-T98U-54",
+                "color": "Blue",
+                "listPrice":  1003.9100,
+                "size":  "54",
+                "serie": "HL Touring Frame",
+                "type": "product",
+                "categories": [
+                    "Components",
+                    "Touring Frames"
+                ]
+            },
+            {
+                "productId":  893,
+                "name": "HL Touring Frame - Blue, 60",
+                "productNumber": "FR-T98U-60",
+                "color": "Blue",
+                "listPrice":  1003.9100,
+                "size":  "60",
+                "serie": "HL Touring Frame",
+                "type": "product",
+                "categories": [
+                    "Components",
+                    "Touring Frames"
+                ]
+            },
+            {
+                "productId":  924,
+                "name": "LL Mountain Frame - Black, 42",
+                "productNumber": "FR-M21B-42",
+                "color": "Black",
+                "listPrice":  249.7900,
+                "size":  "42",
+                "serie": "LL Mountain Frame",
+                "type": "product",
+                "categories": [
+                    "Components",
+                    "Mountain Frames"
+                ]
+            },
+            {
+                "productId":  925,
+                "name": "LL Mountain Frame - Black, 44",
+                "productNumber": "FR-M21B-44",
+                "color": "Black",
+                "listPrice":  249.7900,
+                "size":  "44",
+                "serie": "LL Mountain Frame",
+                "type": "product",
+                "categories": [
+                    "Components",
+                    "Mountain Frames"
+                ]
+            },
+            {
+                "productId":  926,
+                "name": "LL Mountain Frame - Black, 48",
+                "productNumber": "FR-M21B-48",
+                "color": "Black",
+                "listPrice":  249.7900,
+                "size":  "48",
+                "serie": "LL Mountain Frame",
+                "type": "product",
+                "categories": [
+                    "Components",
+                    "Mountain Frames"
+                ]
+            },
+            {
+                "productId":  927,
+                "name": "LL Mountain Frame - Black, 52",
+                "productNumber": "FR-M21B-52",
+                "color": "Black",
+                "listPrice":  249.7900,
+                "size":  "52",
+                "serie": "LL Mountain Frame",
+                "type": "product",
+                "categories": [
+                    "Components",
+                    "Mountain Frames"
+                ]
+            },
+            {
+                "productId":  917,
+                "name": "LL Mountain Frame - Silver, 42",
+                "productNumber": "FR-M21S-42",
+                "color": "Silver",
+                "listPrice":  264.0500,
+                "size":  "42",
+                "serie": "LL Mountain Frame",
+                "type": "product",
+                "categories": [
+                    "Components",
+                    "Mountain Frames"
+                ]
+            },
+            {
+                "productId":  918,
+                "name": "LL Mountain Frame - Silver, 44",
+                "productNumber": "FR-M21S-44",
+                "color": "Silver",
+                "listPrice":  264.0500,
+                "size":  "44",
+                "serie": "LL Mountain Frame",
+                "type": "product",
+                "categories": [
+                    "Components",
+                    "Mountain Frames"
+                ]
+            },
+            {
+                "productId":  919,
+                "name": "LL Mountain Frame - Silver, 48",
+                "productNumber": "FR-M21S-48",
+                "color": "Silver",
+                "listPrice":  264.0500,
+                "size":  "48",
+                "serie": "LL Mountain Frame",
+                "type": "product",
+                "categories": [
+                    "Components",
+                    "Mountain Frames"
+                ]
+            },
+            {
+                "productId":  920,
+                "name": "LL Mountain Frame - Silver, 52",
+                "productNumber": "FR-M21S-52",
+                "color": "Silver",
+                "listPrice":  264.0500,
+                "size":  "52",
+                "serie": "LL Mountain Frame",
+                "type": "product",
+                "categories": [
+                    "Components",
+                    "Mountain Frames"
+                ]
+            },
+            {
+                "productId":  943,
+                "name": "LL Mountain Frame - Black, 40",
+                "productNumber": "FR-M21B-40",
+                "color": "Black",
+                "listPrice":  249.7900,
+                "size":  "40",
+                "serie": "LL Mountain Frame",
+                "type": "product",
+                "categories": [
+                    "Components",
+                    "Mountain Frames"
+                ]
+            },
+            {
+                "productId":  944,
+                "name": "LL Mountain Frame - Silver, 40",
+                "productNumber": "FR-M21S-40",
+                "color": "Silver",
+                "listPrice":  264.0500,
+                "size":  "40",
+                "serie": "LL Mountain Frame",
+                "type": "product",
+                "categories": [
+                    "Components",
+                    "Mountain Frames"
+                ]
+            },
+            {
+                "productId":  722,
+                "name": "LL Road Frame - Black, 58",
+                "productNumber": "FR-R38B-58",
+                "color": "Black",
+                "listPrice":  337.2200,
+                "size":  "58",
+                "serie": "LL Road Frame",
+                "type": "product",
+                "categories": [
+                    "Components",
+                    "Road Frames"
+                ]
+            },
+            {
+                "productId":  723,
+                "name": "LL Road Frame - Black, 60",
+                "productNumber": "FR-R38B-60",
+                "color": "Black",
+                "listPrice":  337.2200,
+                "size":  "60",
+                "serie": "LL Road Frame",
+                "type": "product",
+                "categories": [
+                    "Components",
+                    "Road Frames"
+                ]
+            },
+            {
+                "productId":  724,
+                "name": "LL Road Frame - Black, 62",
+                "productNumber": "FR-R38B-62",
+                "color": "Black",
+                "listPrice":  337.2200,
+                "size":  "62",
+                "serie": "LL Road Frame",
+                "type": "product",
+                "categories": [
+                    "Components",
+                    "Road Frames"
+                ]
+            },
+            {
+                "productId":  725,
+                "name": "LL Road Frame - Red, 44",
+                "productNumber": "FR-R38R-44",
+                "color": "Red",
+                "listPrice":  337.2200,
+                "size":  "44",
+                "serie": "LL Road Frame",
+                "type": "product",
+                "categories": [
+                    "Components",
+                    "Road Frames"
+                ]
+            },
+            {
+                "productId":  726,
+                "name": "LL Road Frame - Red, 48",
+                "productNumber": "FR-R38R-48",
+                "color": "Red",
+                "listPrice":  337.2200,
+                "size":  "48",
+                "serie": "LL Road Frame",
+                "type": "product",
+                "categories": [
+                    "Components",
+                    "Road Frames"
+                ]
+            },
+            {
+                "productId":  727,
+                "name": "LL Road Frame - Red, 52",
+                "productNumber": "FR-R38R-52",
+                "color": "Red",
+                "listPrice":  337.2200,
+                "size":  "52",
+                "serie": "LL Road Frame",
+                "type": "product",
+                "categories": [
+                    "Components",
+                    "Road Frames"
+                ]
+            },
+            {
+                "productId":  728,
+                "name": "LL Road Frame - Red, 58",
+                "productNumber": "FR-R38R-58",
+                "color": "Red",
+                "listPrice":  337.2200,
+                "size":  "58",
+                "serie": "LL Road Frame",
+                "type": "product",
+                "categories": [
+                    "Components",
+                    "Road Frames"
+                ]
+            },
+            {
+                "productId":  729,
+                "name": "LL Road Frame - Red, 60",
+                "productNumber": "FR-R38R-60",
+                "color": "Red",
+                "listPrice":  337.2200,
+                "size":  "60",
+                "serie": "LL Road Frame",
+                "type": "product",
+                "categories": [
+                    "Components",
+                    "Road Frames"
+                ]
+            },
+            {
+                "productId":  730,
+                "name": "LL Road Frame - Red, 62",
+                "productNumber": "FR-R38R-62",
+                "color": "Red",
+                "listPrice":  337.2200,
+                "size":  "62",
+                "serie": "LL Road Frame",
+                "type": "product",
+                "categories": [
+                    "Components",
+                    "Road Frames"
+                ]
+            },
+            {
+                "productId":  736,
+                "name": "LL Road Frame - Black, 44",
+                "productNumber": "FR-R38B-44",
+                "color": "Black",
+                "listPrice":  337.2200,
+                "size":  "44",
+                "serie": "LL Road Frame",
+                "type": "product",
+                "categories": [
+                    "Components",
+                    "Road Frames"
+                ]
+            },
+            {
+                "productId":  737,
+                "name": "LL Road Frame - Black, 48",
+                "productNumber": "FR-R38B-48",
+                "color": "Black",
+                "listPrice":  337.2200,
+                "size":  "48",
+                "serie": "LL Road Frame",
+                "type": "product",
+                "categories": [
+                    "Components",
+                    "Road Frames"
+                ]
+            },
+            {
+                "productId":  738,
+                "name": "LL Road Frame - Black, 52",
+                "productNumber": "FR-R38B-52",
+                "color": "Black",
+                "listPrice":  337.2200,
+                "size":  "52",
+                "serie": "LL Road Frame",
+                "type": "product",
+                "categories": [
+                    "Components",
+                    "Road Frames"
+                ]
+            },
+            {
+                "productId":  886,
+                "name": "LL Touring Frame - Yellow, 62",
+                "productNumber": "FR-T67Y-62",
+                "color": "Yellow",
+                "listPrice":  333.4200,
+                "size":  "62",
+                "serie": "LL Touring Frame",
+                "type": "product",
+                "categories": [
+                    "Components",
+                    "Touring Frames"
+                ]
+            },
+            {
+                "productId":  895,
+                "name": "LL Touring Frame - Blue, 50",
+                "productNumber": "FR-T67U-50",
+                "color": "Blue",
+                "listPrice":  333.4200,
+                "size":  "50",
+                "serie": "LL Touring Frame",
+                "type": "product",
+                "categories": [
+                    "Components",
+                    "Touring Frames"
+                ]
+            },
+            {
+                "productId":  896,
+                "name": "LL Touring Frame - Blue, 54",
+                "productNumber": "FR-T67U-54",
+                "color": "Blue",
+                "listPrice":  333.4200,
+                "size":  "54",
+                "serie": "LL Touring Frame",
+                "type": "product",
+                "categories": [
+                    "Components",
+                    "Touring Frames"
+                ]
+            },
+            {
+                "productId":  897,
+                "name": "LL Touring Frame - Blue, 58",
+                "productNumber": "FR-T67U-58",
+                "color": "Blue",
+                "listPrice":  333.4200,
+                "size":  "58",
+                "serie": "LL Touring Frame",
+                "type": "product",
+                "categories": [
+                    "Components",
+                    "Touring Frames"
+                ]
+            },
+            {
+                "productId":  898,
+                "name": "LL Touring Frame - Blue, 62",
+                "productNumber": "FR-T67U-62",
+                "color": "Blue",
+                "listPrice":  333.4200,
+                "size":  "62",
+                "serie": "LL Touring Frame",
+                "type": "product",
+                "categories": [
+                    "Components",
+                    "Touring Frames"
+                ]
+            },
+            {
+                "productId":  899,
+                "name": "LL Touring Frame - Yellow, 44",
+                "productNumber": "FR-T67Y-44",
+                "color": "Yellow",
+                "listPrice":  333.4200,
+                "size":  "44",
+                "serie": "LL Touring Frame",
+                "type": "product",
+                "categories": [
+                    "Components",
+                    "Touring Frames"
+                ]
+            },
+            {
+                "productId":  900,
+                "name": "LL Touring Frame - Yellow, 50",
+                "productNumber": "FR-T67Y-50",
+                "color": "Yellow",
+                "listPrice":  333.4200,
+                "size":  "50",
+                "serie": "LL Touring Frame",
+                "type": "product",
+                "categories": [
+                    "Components",
+                    "Touring Frames"
+                ]
+            },
+            {
+                "productId":  901,
+                "name": "LL Touring Frame - Yellow, 54",
+                "productNumber": "FR-T67Y-54",
+                "color": "Yellow",
+                "listPrice":  333.4200,
+                "size":  "54",
+                "serie": "LL Touring Frame",
+                "type": "product",
+                "categories": [
+                    "Components",
+                    "Touring Frames"
+                ]
+            },
+            {
+                "productId":  902,
+                "name": "LL Touring Frame - Yellow, 58",
+                "productNumber": "FR-T67Y-58",
+                "color": "Yellow",
+                "listPrice":  333.4200,
+                "size":  "58",
+                "serie": "LL Touring Frame",
+                "type": "product",
+                "categories": [
+                    "Components",
+                    "Touring Frames"
+                ]
+            },
+            {
+                "productId":  903,
+                "name": "LL Touring Frame - Blue, 44",
+                "productNumber": "FR-T67U-44",
+                "color": "Blue",
+                "listPrice":  333.4200,
+                "size":  "44",
+                "serie": "LL Touring Frame",
+                "type": "product",
+                "categories": [
+                    "Components",
+                    "Touring Frames"
+                ]
+            },
+            {
+                "productId":  713,
+                "name": "Long-Sleeve Logo Jersey, S",
+                "productNumber": "LJ-0192-S",
+                "color": "Multi",
+                "listPrice":  49.9900,
+                "size": "S",
+                "serie": "Long-Sleeve Logo Jersey",
+                "type": "product",
+                "categories": [
+                    "Clothing",
+                    "Jerseys"
+                ]
+            },
+            {
+                "productId":  714,
+                "name": "Long-Sleeve Logo Jersey, M",
+                "productNumber": "LJ-0192-M",
+                "color": "Multi",
+                "listPrice":  49.9900,
+                "size": "M",
+                "serie": "Long-Sleeve Logo Jersey",
+                "type": "product",
+                "categories": [
+                    "Clothing",
+                    "Jerseys"
+                ]
+            },
+            {
+                "productId":  715,
+                "name": "Long-Sleeve Logo Jersey, L",
+                "productNumber": "LJ-0192-L",
+                "color": "Multi",
+                "listPrice":  49.9900,
+                "size": "L",
+                "serie": "Long-Sleeve Logo Jersey",
+                "type": "product",
+                "categories": [
+                    "Clothing",
+                    "Jerseys"
+                ]
+            },
+            {
+                "productId":  716,
+                "name": "Long-Sleeve Logo Jersey, XL",
+                "productNumber": "LJ-0192-X",
+                "color": "Multi",
+                "listPrice":  49.9900,
+                "size": "XL",
+                "serie": "Long-Sleeve Logo Jersey",
+                "type": "product",
+                "categories": [
+                    "Clothing",
+                    "Jerseys"
+                ]
+            },
+            {
+                "productId":  855,
+                "name": "Men's Bib-Shorts, S",
+                "productNumber": "SB-M891-S",
+                "color": "Multi",
+                "listPrice":  89.9900,
+                "size": "S",
+                "serie": "Men's Bib-Shorts",
+                "type": "product",
+                "categories": [
+                    "Clothing",
+                    "Bib-Shorts"
+                ]
+            },
+            {
+                "productId":  856,
+                "name": "Men's Bib-Shorts, M",
+                "productNumber": "SB-M891-M",
+                "color": "Multi",
+                "listPrice":  89.9900,
+                "size": "M",
+                "serie": "Men's Bib-Shorts",
+                "type": "product",
+                "categories": [
+                    "Clothing",
+                    "Bib-Shorts"
+                ]
+            },
+            {
+                "productId":  857,
+                "name": "Men's Bib-Shorts, L",
+                "productNumber": "SB-M891-L",
+                "color": "Multi",
+                "listPrice":  89.9900,
+                "size": "L",
+                "serie": "Men's Bib-Shorts",
+                "type": "product",
+                "categories": [
+                    "Clothing",
+                    "Bib-Shorts"
+                ]
+            },
+            {
+                "productId":  841,
+                "name": "Men's Sports Shorts, S",
+                "productNumber": "SH-M897-S",
+                "color": "Black",
+                "listPrice":  59.9900,
+                "size": "S",
+                "serie": "Men's Sports Shorts",
+                "type": "product",
+                "categories": [
+                    "Clothing",
+                    "Shorts"
+                ]
+            },
+            {
+                "productId":  849,
+                "name": "Men's Sports Shorts, M",
+                "productNumber": "SH-M897-M",
+                "color": "Black",
+                "listPrice":  59.9900,
+                "size": "M",
+                "serie": "Men's Sports Shorts",
+                "type": "product",
+                "categories": [
+                    "Clothing",
+                    "Shorts"
+                ]
+            },
+            {
+                "productId":  850,
+                "name": "Men's Sports Shorts, L",
+                "productNumber": "SH-M897-L",
+                "color": "Black",
+                "listPrice":  59.9900,
+                "size": "L",
+                "serie": "Men's Sports Shorts",
+                "type": "product",
+                "categories": [
+                    "Clothing",
+                    "Shorts"
+                ]
+            },
+            {
+                "productId":  851,
+                "name": "Men's Sports Shorts, XL",
+                "productNumber": "SH-M897-X",
+                "color": "Black",
+                "listPrice":  59.9900,
+                "size": "XL",
+                "serie": "Men's Sports Shorts",
+                "type": "product",
+                "categories": [
+                    "Clothing",
+                    "Shorts"
+                ]
+            },
+            {
+                "productId":  830,
+                "name": "ML Mountain Frame - Black, 40",
+                "productNumber": "FR-M63B-40",
+                "color": "Black",
+                "listPrice":  348.7600,
+                "size":  "40",
+                "serie": "ML Mountain Frame",
+                "type": "product",
+                "categories": [
+                    "Components",
+                    "Mountain Frames"
+                ]
+            },
+            {
+                "productId":  831,
+                "name": "ML Mountain Frame - Black, 44",
+                "productNumber": "FR-M63B-44",
+                "color": "Black",
+                "listPrice":  348.7600,
+                "size":  "44",
+                "serie": "ML Mountain Frame",
+                "type": "product",
+                "categories": [
+                    "Components",
+                    "Mountain Frames"
+                ]
+            },
+            {
+                "productId":  832,
+                "name": "ML Mountain Frame - Black, 48",
+                "productNumber": "FR-M63B-48",
+                "color": "Black",
+                "listPrice":  348.7600,
+                "size":  "48",
+                "serie": "ML Mountain Frame",
+                "type": "product",
+                "categories": [
+                    "Components",
+                    "Mountain Frames"
+                ]
+            },
+            {
+                "productId":  904,
+                "name": "ML Mountain Frame-W - Silver, 40",
+                "productNumber": "FR-M63S-40",
+                "color": "Silver",
+                "listPrice":  364.0900,
+                "size":  "40",
+                "serie": "ML Mountain Frame-W",
+                "type": "product",
+                "categories": [
+                    "Components",
+                    "Mountain Frames"
+                ]
+            },
+            {
+                "productId":  905,
+                "name": "ML Mountain Frame-W - Silver, 42",
+                "productNumber": "FR-M63S-42",
+                "color": "Silver",
+                "listPrice":  364.0900,
+                "size":  "42",
+                "serie": "ML Mountain Frame-W",
+                "type": "product",
+                "categories": [
+                    "Components",
+                    "Mountain Frames"
+                ]
+            },
+            {
+                "productId":  906,
+                "name": "ML Mountain Frame-W - Silver, 46",
+                "productNumber": "FR-M63S-46",
+                "color": "Silver",
+                "listPrice":  364.0900,
+                "size":  "46",
+                "serie": "ML Mountain Frame-W",
+                "type": "product",
+                "categories": [
+                    "Components",
+                    "Mountain Frames"
+                ]
+            },
+            {
+                "productId":  942,
+                "name": "ML Mountain Frame-W - Silver, 38",
+                "productNumber": "FR-M63S-38",
+                "color": "Silver",
+                "listPrice":  364.0900,
+                "size":  "38",
+                "serie": "ML Mountain Frame-W",
+                "type": "product",
+                "categories": [
+                    "Components",
+                    "Mountain Frames"
+                ]
+            },
+            {
+                "productId":  814,
+                "name": "ML Mountain Frame - Black, 38",
+                "productNumber": "FR-M63B-38",
+                "color": "Black",
+                "listPrice":  348.7600,
+                "size":  "38",
+                "serie": "ML Mountain Frame-W",
+                "type": "product",
+                "categories": [
+                    "Components",
+                    "Mountain Frames"
+                ]
+            },
+            {
+                "productId":  731,
+                "name": "ML Road Frame - Red, 44",
+                "productNumber": "FR-R72R-44",
+                "color": "Red",
+                "listPrice":  594.8300,
+                "size":  "44",
+                "serie": "ML Road Frame",
+                "type": "product",
+                "categories": [
+                    "Components",
+                    "Road Frames"
+                ]
+            },
+            {
+                "productId":  732,
+                "name": "ML Road Frame - Red, 48",
+                "productNumber": "FR-R72R-48",
+                "color": "Red",
+                "listPrice":  594.8300,
+                "size":  "48",
+                "serie": "ML Road Frame",
+                "type": "product",
+                "categories": [
+                    "Components",
+                    "Road Frames"
+                ]
+            },
+            {
+                "productId":  733,
+                "name": "ML Road Frame - Red, 52",
+                "productNumber": "FR-R72R-52",
+                "color": "Red",
+                "listPrice":  594.8300,
+                "size":  "52",
+                "serie": "ML Road Frame",
+                "type": "product",
+                "categories": [
+                    "Components",
+                    "Road Frames"
+                ]
+            },
+            {
+                "productId":  734,
+                "name": "ML Road Frame - Red, 58",
+                "productNumber": "FR-R72R-58",
+                "color": "Red",
+                "listPrice":  594.8300,
+                "size":  "58",
+                "serie": "ML Road Frame",
+                "type": "product",
+                "categories": [
+                    "Components",
+                    "Road Frames"
+                ]
+            },
+            {
+                "productId":  735,
+                "name": "ML Road Frame - Red, 60",
+                "productNumber": "FR-R72R-60",
+                "color": "Red",
+                "listPrice":  594.8300,
+                "size":  "60",
+                "serie": "ML Road Frame",
+                "type": "product",
+                "categories": [
+                    "Components",
+                    "Road Frames"
+                ]
+            },
+            {
+                "productId":  833,
+                "name": "ML Road Frame-W - Yellow, 40",
+                "productNumber": "FR-R72Y-40",
+                "color": "Yellow",
+                "listPrice":  594.8300,
+                "size":  "40",
+                "serie": "ML Road Frame-W",
+                "type": "product",
+                "categories": [
+                    "Components",
+                    "Road Frames"
+                ]
+            },
+            {
+                "productId":  834,
+                "name": "ML Road Frame-W - Yellow, 42",
+                "productNumber": "FR-R72Y-42",
+                "color": "Yellow",
+                "listPrice":  594.8300,
+                "size":  "42",
+                "serie": "ML Road Frame-W",
+                "type": "product",
+                "categories": [
+                    "Components",
+                    "Road Frames"
+                ]
+            },
+            {
+                "productId":  835,
+                "name": "ML Road Frame-W - Yellow, 44",
+                "productNumber": "FR-R72Y-44",
+                "color": "Yellow",
+                "listPrice":  594.8300,
+                "size":  "44",
+                "serie": "ML Road Frame-W",
+                "type": "product",
+                "categories": [
+                    "Components",
+                    "Road Frames"
+                ]
+            },
+            {
+                "productId":  836,
+                "name": "ML Road Frame-W - Yellow, 48",
+                "productNumber": "FR-R72Y-48",
+                "color": "Yellow",
+                "listPrice":  594.8300,
+                "size":  "48",
+                "serie": "ML Road Frame-W",
+                "type": "product",
+                "categories": [
+                    "Components",
+                    "Road Frames"
+                ]
+            },
+            {
+                "productId":  822,
+                "name": "ML Road Frame-W - Yellow, 38",
+                "productNumber": "FR-R72Y-38",
+                "color": "Yellow",
+                "listPrice":  594.8300,
+                "size":  "38",
+                "serie": "ML Road Frame-W",
+                "type": "product",
+                "categories": [
+                    "Components",
+                    "Road Frames"
+                ]
+            },
+            {
+                "productId":  709,
+                "name": "Mountain Bike Socks, M",
+                "productNumber": "SO-B909-M",
+                "color": "White",
+                "listPrice":  9.5000,
+                "size": "M",
+                "serie": "Mountain Bike Socks",
+                "type": "product",
+                "categories": [
+                    "Clothing",
+                    "Socks"
+                ]
+            },
+            {
+                "productId":  710,
+                "name": "Mountain Bike Socks, L",
+                "productNumber": "SO-B909-L",
+                "color": "White",
+                "listPrice":  9.5000,
+                "size": "L",
+                "serie": "Mountain Bike Socks",
+                "type": "product",
+                "categories": [
+                    "Clothing",
+                    "Socks"
+                ]
+            },
+            {
+                "productId":  771,
+                "name": "Mountain-100 Silver, 38",
+                "productNumber": "BK-M82S-38",
+                "color": "Silver",
+                "listPrice":  3399.9900,
+                "size":  "38",
+                "serie": "Mountain-100",
+                "type": "product",
+                "categories": [
+                    "Bikes",
+                    "Mountain Bikes"
+                ]
+            },
+            {
+                "productId":  772,
+                "name": "Mountain-100 Silver, 42",
+                "productNumber": "BK-M82S-42",
+                "color": "Silver",
+                "listPrice":  3399.9900,
+                "size":  "42",
+                "serie": "Mountain-100",
+                "type": "product",
+                "categories": [
+                    "Bikes",
+                    "Mountain Bikes"
+                ]
+            },
+            {
+                "productId":  773,
+                "name": "Mountain-100 Silver, 44",
+                "productNumber": "BK-M82S-44",
+                "color": "Silver",
+                "listPrice":  3399.9900,
+                "size":  "44",
+                "serie": "Mountain-100",
+                "type": "product",
+                "categories": [
+                    "Bikes",
+                    "Mountain Bikes"
+                ]
+            },
+            {
+                "productId":  774,
+                "name": "Mountain-100 Silver, 48",
+                "productNumber": "BK-M82S-48",
+                "color": "Silver",
+                "listPrice":  3399.9900,
+                "size":  "48",
+                "serie": "Mountain-100",
+                "type": "product",
+                "categories": [
+                    "Bikes",
+                    "Mountain Bikes"
+                ]
+            },
+            {
+                "productId":  775,
+                "name": "Mountain-100 Black, 38",
+                "productNumber": "BK-M82B-38",
+                "color": "Black",
+                "listPrice":  3374.9900,
+                "size":  "38",
+                "serie": "Mountain-100",
+                "type": "product",
+                "categories": [
+                    "Bikes",
+                    "Mountain Bikes"
+                ]
+            },
+            {
+                "productId":  776,
+                "name": "Mountain-100 Black, 42",
+                "productNumber": "BK-M82B-42",
+                "color": "Black",
+                "listPrice":  3374.9900,
+                "size":  "42",
+                "serie": "Mountain-100",
+                "type": "product",
+                "categories": [
+                    "Bikes",
+                    "Mountain Bikes"
+                ]
+            },
+            {
+                "productId":  777,
+                "name": "Mountain-100 Black, 44",
+                "productNumber": "BK-M82B-44",
+                "color": "Black",
+                "listPrice":  3374.9900,
+                "size":  "44",
+                "serie": "Mountain-100",
+                "type": "product",
+                "categories": [
+                    "Bikes",
+                    "Mountain Bikes"
+                ]
+            },
+            {
+                "productId":  778,
+                "name": "Mountain-100 Black, 48",
+                "productNumber": "BK-M82B-48",
+                "color": "Black",
+                "listPrice":  3374.9900,
+                "size":  "48",
+                "serie": "Mountain-100",
+                "type": "product",
+                "categories": [
+                    "Bikes",
+                    "Mountain Bikes"
+                ]
+            },
+            {
+                "productId":  779,
+                "name": "Mountain-200 Silver, 38",
+                "productNumber": "BK-M68S-38",
+                "color": "Silver",
+                "listPrice":  2319.9900,
+                "size":  "38",
+                "serie": "Mountain-200",
+                "type": "product",
+                "categories": [
+                    "Bikes",
+                    "Mountain Bikes"
+                ]
+            },
+            {
+                "productId":  780,
+                "name": "Mountain-200 Silver, 42",
+                "productNumber": "BK-M68S-42",
+                "color": "Silver",
+                "listPrice":  2319.9900,
+                "size":  "42",
+                "serie": "Mountain-200",
+                "type": "product",
+                "categories": [
+                    "Bikes",
+                    "Mountain Bikes"
+                ]
+            },
+            {
+                "productId":  781,
+                "name": "Mountain-200 Silver, 46",
+                "productNumber": "BK-M68S-46",
+                "color": "Silver",
+                "listPrice":  2319.9900,
+                "size":  "46",
+                "serie": "Mountain-200",
+                "type": "product",
+                "categories": [
+                    "Bikes",
+                    "Mountain Bikes"
+                ]
+            },
+            {
+                "productId":  782,
+                "name": "Mountain-200 Black, 38",
+                "productNumber": "BK-M68B-38",
+                "color": "Black",
+                "listPrice":  2294.9900,
+                "size":  "38",
+                "serie": "Mountain-200",
+                "type": "product",
+                "categories": [
+                    "Bikes",
+                    "Mountain Bikes"
+                ]
+            },
+            {
+                "productId":  783,
+                "name": "Mountain-200 Black, 42",
+                "productNumber": "BK-M68B-42",
+                "color": "Black",
+                "listPrice":  2294.9900,
+                "size":  "42",
+                "serie": "Mountain-200",
+                "type": "product",
+                "categories": [
+                    "Bikes",
+                    "Mountain Bikes"
+                ]
+            },
+            {
+                "productId":  784,
+                "name": "Mountain-200 Black, 46",
+                "productNumber": "BK-M68B-46",
+                "color": "Black",
+                "listPrice":  2294.9900,
+                "size":  "46",
+                "serie": "Mountain-200",
+                "type": "product",
+                "categories": [
+                    "Bikes",
+                    "Mountain Bikes"
+                ]
+            },
+            {
+                "productId":  785,
+                "name": "Mountain-300 Black, 38",
+                "productNumber": "BK-M47B-38",
+                "color": "Black",
+                "listPrice":  1079.9900,
+                "size":  "38",
+                "serie": "Mountain-300",
+                "type": "product",
+                "categories": [
+                    "Bikes",
+                    "Mountain Bikes"
+                ]
+            },
+            {
+                "productId":  786,
+                "name": "Mountain-300 Black, 40",
+                "productNumber": "BK-M47B-40",
+                "color": "Black",
+                "listPrice":  1079.9900,
+                "size":  "40",
+                "serie": "Mountain-300",
+                "type": "product",
+                "categories": [
+                    "Bikes",
+                    "Mountain Bikes"
+                ]
+            },
+            {
+                "productId":  787,
+                "name": "Mountain-300 Black, 44",
+                "productNumber": "BK-M47B-44",
+                "color": "Black",
+                "listPrice":  1079.9900,
+                "size":  "44",
+                "serie": "Mountain-300",
+                "type": "product",
+                "categories": [
+                    "Bikes",
+                    "Mountain Bikes"
+                ]
+            },
+            {
+                "productId":  788,
+                "name": "Mountain-300 Black, 48",
+                "productNumber": "BK-M47B-48",
+                "color": "Black",
+                "listPrice":  1079.9900,
+                "size":  "48",
+                "serie": "Mountain-300",
+                "type": "product",
+                "categories": [
+                    "Bikes",
+                    "Mountain Bikes"
+                ]
+            },
+            {
+                "productId":  980,
+                "name": "Mountain-400-W Silver, 38",
+                "productNumber": "BK-M38S-38",
+                "color": "Silver",
+                "listPrice":  769.4900,
+                "size":  "38",
+                "serie": "Mountain-400-W",
+                "type": "product",
+                "categories": [
+                    "Bikes",
+                    "Mountain Bikes"
+                ]
+            },
+            {
+                "productId":  981,
+                "name": "Mountain-400-W Silver, 40",
+                "productNumber": "BK-M38S-40",
+                "color": "Silver",
+                "listPrice":  769.4900,
+                "size":  "40",
+                "serie": "Mountain-400-W",
+                "type": "product",
+                "categories": [
+                    "Bikes",
+                    "Mountain Bikes"
+                ]
+            },
+            {
+                "productId":  982,
+                "name": "Mountain-400-W Silver, 42",
+                "productNumber": "BK-M38S-42",
+                "color": "Silver",
+                "listPrice":  769.4900,
+                "size":  "42",
+                "serie": "Mountain-400-W",
+                "type": "product",
+                "categories": [
+                    "Bikes",
+                    "Mountain Bikes"
+                ]
+            },
+            {
+                "productId":  983,
+                "name": "Mountain-400-W Silver, 46",
+                "productNumber": "BK-M38S-46",
+                "color": "Silver",
+                "listPrice":  769.4900,
+                "size":  "46",
+                "serie": "Mountain-400-W",
+                "type": "product",
+                "categories": [
+                    "Bikes",
+                    "Mountain Bikes"
+                ]
+            },
+            {
+                "productId":  984,
+                "name": "Mountain-500 Silver, 40",
+                "productNumber": "BK-M18S-40",
+                "color": "Silver",
+                "listPrice":  564.9900,
+                "size":  "40",
+                "serie": "Mountain-500",
+                "type": "product",
+                "categories": [
+                    "Bikes",
+                    "Mountain Bikes"
+                ]
+            },
+            {
+                "productId":  985,
+                "name": "Mountain-500 Silver, 42",
+                "productNumber": "BK-M18S-42",
+                "color": "Silver",
+                "listPrice":  564.9900,
+                "size":  "42",
+                "serie": "Mountain-500",
+                "type": "product",
+                "categories": [
+                    "Bikes",
+                    "Mountain Bikes"
+                ]
+            },
+            {
+                "productId":  986,
+                "name": "Mountain-500 Silver, 44",
+                "productNumber": "BK-M18S-44",
+                "color": "Silver",
+                "listPrice":  564.9900,
+                "size":  "44",
+                "serie": "Mountain-500",
+                "type": "product",
+                "categories": [
+                    "Bikes",
+                    "Mountain Bikes"
+                ]
+            },
+            {
+                "productId":  987,
+                "name": "Mountain-500 Silver, 48",
+                "productNumber": "BK-M18S-48",
+                "color": "Silver",
+                "listPrice":  564.9900,
+                "size":  "48",
+                "serie": "Mountain-500",
+                "type": "product",
+                "categories": [
+                    "Bikes",
+                    "Mountain Bikes"
+                ]
+            },
+            {
+                "productId":  988,
+                "name": "Mountain-500 Silver, 52",
+                "productNumber": "BK-M18S-52",
+                "color": "Silver",
+                "listPrice":  564.9900,
+                "size":  "52",
+                "serie": "Mountain-500",
+                "type": "product",
+                "categories": [
+                    "Bikes",
+                    "Mountain Bikes"
+                ]
+            },
+            {
+                "productId":  989,
+                "name": "Mountain-500 Black, 40",
+                "productNumber": "BK-M18B-40",
+                "color": "Black",
+                "listPrice":  539.9900,
+                "size":  "40",
+                "serie": "Mountain-500",
+                "type": "product",
+                "categories": [
+                    "Bikes",
+                    "Mountain Bikes"
+                ]
+            },
+            {
+                "productId":  990,
+                "name": "Mountain-500 Black, 42",
+                "productNumber": "BK-M18B-42",
+                "color": "Black",
+                "listPrice":  539.9900,
+                "size":  "42",
+                "serie": "Mountain-500",
+                "type": "product",
+                "categories": [
+                    "Bikes",
+                    "Mountain Bikes"
+                ]
+            },
+            {
+                "productId":  991,
+                "name": "Mountain-500 Black, 44",
+                "productNumber": "BK-M18B-44",
+                "color": "Black",
+                "listPrice":  539.9900,
+                "size":  "44",
+                "serie": "Mountain-500",
+                "type": "product",
+                "categories": [
+                    "Bikes",
+                    "Mountain Bikes"
+                ]
+            },
+            {
+                "productId":  992,
+                "name": "Mountain-500 Black, 48",
+                "productNumber": "BK-M18B-48",
+                "color": "Black",
+                "listPrice":  539.9900,
+                "size":  "48",
+                "serie": "Mountain-500",
+                "type": "product",
+                "categories": [
+                    "Bikes",
+                    "Mountain Bikes"
+                ]
+            },
+            {
+                "productId":  993,
+                "name": "Mountain-500 Black, 52",
+                "productNumber": "BK-M18B-52",
+                "color": "Black",
+                "listPrice":  539.9900,
+                "size":  "52",
+                "serie": "Mountain-500",
+                "type": "product",
+                "categories": [
+                    "Bikes",
+                    "Mountain Bikes"
+                ]
+            },
+            {
+                "productId":  874,
+                "name": "Racing Socks, M",
+                "productNumber": "SO-R809-M",
+                "color": "White",
+                "listPrice":  8.9900,
+                "size": "M",
+                "serie": "Racing Socks",
+                "type": "product",
+                "categories": [
+                    "Clothing",
+                    "Socks"
+                ]
+            },
+            {
+                "productId":  875,
+                "name": "Racing Socks, L",
+                "productNumber": "SO-R809-L",
+                "color": "White",
+                "listPrice":  8.9900,
+                "size": "L",
+                "serie": "Racing Socks",
+                "type": "product",
+                "categories": [
+                    "Clothing",
+                    "Socks"
+                ]
+            },
+            {
+                "productId":  749,
+                "name": "Road-150 Red, 62",
+                "productNumber": "BK-R93R-62",
+                "color": "Red",
+                "listPrice":  3578.2700,
+                "size":  "62",
+                "serie": "Road-150",
+                "type": "product",
+                "categories": [
+                    "Bikes",
+                    "Road Bikes"
+                ]
+            },
+            {
+                "productId":  750,
+                "name": "Road-150 Red, 44",
+                "productNumber": "BK-R93R-44",
+                "color": "Red",
+                "listPrice":  3578.2700,
+                "size":  "44",
+                "serie": "Road-150",
+                "type": "product",
+                "categories": [
+                    "Bikes",
+                    "Road Bikes"
+                ]
+            },
+            {
+                "productId":  751,
+                "name": "Road-150 Red, 48",
+                "productNumber": "BK-R93R-48",
+                "color": "Red",
+                "listPrice":  3578.2700,
+                "size":  "48",
+                "serie": "Road-150",
+                "type": "product",
+                "categories": [
+                    "Bikes",
+                    "Road Bikes"
+                ]
+            },
+            {
+                "productId":  752,
+                "name": "Road-150 Red, 52",
+                "productNumber": "BK-R93R-52",
+                "color": "Red",
+                "listPrice":  3578.2700,
+                "size":  "52",
+                "serie": "Road-150",
+                "type": "product",
+                "categories": [
+                    "Bikes",
+                    "Road Bikes"
+                ]
+            },
+            {
+                "productId":  753,
+                "name": "Road-150 Red, 56",
+                "productNumber": "BK-R93R-56",
+                "color": "Red",
+                "listPrice":  3578.2700,
+                "size":  "56",
+                "serie": "Road-150",
+                "type": "product",
+                "categories": [
+                    "Bikes",
+                    "Road Bikes"
+                ]
+            },
+            {
+                "productId":  789,
+                "name": "Road-250 Red, 44",
+                "productNumber": "BK-R89R-44",
+                "color": "Red",
+                "listPrice":  2443.3500,
+                "size":  "44",
+                "serie": "Road-250",
+                "type": "product",
+                "categories": [
+                    "Bikes",
+                    "Road Bikes"
+                ]
+            },
+            {
+                "productId":  790,
+                "name": "Road-250 Red, 48",
+                "productNumber": "BK-R89R-48",
+                "color": "Red",
+                "listPrice":  2443.3500,
+                "size":  "48",
+                "serie": "Road-250",
+                "type": "product",
+                "categories": [
+                    "Bikes",
+                    "Road Bikes"
+                ]
+            },
+            {
+                "productId":  791,
+                "name": "Road-250 Red, 52",
+                "productNumber": "BK-R89R-52",
+                "color": "Red",
+                "listPrice":  2443.3500,
+                "size":  "52",
+                "serie": "Road-250",
+                "type": "product",
+                "categories": [
+                    "Bikes",
+                    "Road Bikes"
+                ]
+            },
+            {
+                "productId":  792,
+                "name": "Road-250 Red, 58",
+                "productNumber": "BK-R89R-58",
+                "color": "Red",
+                "listPrice":  2443.3500,
+                "size":  "58",
+                "serie": "Road-250",
+                "type": "product",
+                "categories": [
+                    "Bikes",
+                    "Road Bikes"
+                ]
+            },
+            {
+                "productId":  793,
+                "name": "Road-250 Black, 44",
+                "productNumber": "BK-R89B-44",
+                "color": "Black",
+                "listPrice":  2443.3500,
+                "size":  "44",
+                "serie": "Road-250",
+                "type": "product",
+                "categories": [
+                    "Bikes",
+                    "Road Bikes"
+                ]
+            },
+            {
+                "productId":  794,
+                "name": "Road-250 Black, 48",
+                "productNumber": "BK-R89B-48",
+                "color": "Black",
+                "listPrice":  2443.3500,
+                "size":  "48",
+                "serie": "Road-250",
+                "type": "product",
+                "categories": [
+                    "Bikes",
+                    "Road Bikes"
+                ]
+            },
+            {
+                "productId":  795,
+                "name": "Road-250 Black, 52",
+                "productNumber": "BK-R89B-52",
+                "color": "Black",
+                "listPrice":  2443.3500,
+                "size":  "52",
+                "serie": "Road-250",
+                "type": "product",
+                "categories": [
+                    "Bikes",
+                    "Road Bikes"
+                ]
+            },
+            {
+                "productId":  796,
+                "name": "Road-250 Black, 58",
+                "productNumber": "BK-R89B-58",
+                "color": "Black",
+                "listPrice":  2443.3500,
+                "size":  "58",
+                "serie": "Road-250",
+                "type": "product",
+                "categories": [
+                    "Bikes",
+                    "Road Bikes"
+                ]
+            },
+            {
+                "productId":  973,
+                "name": "Road-350-W Yellow, 40",
+                "productNumber": "BK-R79Y-40",
+                "color": "Yellow",
+                "listPrice":  1700.9900,
+                "size":  "40",
+                "serie": "Road-350-W",
+                "type": "product",
+                "categories": [
+                    "Bikes",
+                    "Road Bikes"
+                ]
+            },
+            {
+                "productId":  974,
+                "name": "Road-350-W Yellow, 42",
+                "productNumber": "BK-R79Y-42",
+                "color": "Yellow",
+                "listPrice":  1700.9900,
+                "size":  "42",
+                "serie": "Road-350-W",
+                "type": "product",
+                "categories": [
+                    "Bikes",
+                    "Road Bikes"
+                ]
+            },
+            {
+                "productId":  975,
+                "name": "Road-350-W Yellow, 44",
+                "productNumber": "BK-R79Y-44",
+                "color": "Yellow",
+                "listPrice":  1700.9900,
+                "size":  "44",
+                "serie": "Road-350-W",
+                "type": "product",
+                "categories": [
+                    "Bikes",
+                    "Road Bikes"
+                ]
+            },
+            {
+                "productId":  976,
+                "name": "Road-350-W Yellow, 48",
+                "productNumber": "BK-R79Y-48",
+                "color": "Yellow",
+                "listPrice":  1700.9900,
+                "size":  "48",
+                "serie": "Road-350-W",
+                "type": "product",
+                "categories": [
+                    "Bikes",
+                    "Road Bikes"
+                ]
+            },
+            {
+                "productId":  754,
+                "name": "Road-450 Red, 58",
+                "productNumber": "BK-R68R-58",
+                "color": "Red",
+                "listPrice":  1457.9900,
+                "size":  "58",
+                "serie": "Road-450",
+                "type": "product",
+                "categories": [
+                    "Bikes",
+                    "Road Bikes"
+                ]
+            },
+            {
+                "productId":  755,
+                "name": "Road-450 Red, 60",
+                "productNumber": "BK-R68R-60",
+                "color": "Red",
+                "listPrice":  1457.9900,
+                "size":  "60",
+                "serie": "Road-450",
+                "type": "product",
+                "categories": [
+                    "Bikes",
+                    "Road Bikes"
+                ]
+            },
+            {
+                "productId":  756,
+                "name": "Road-450 Red, 44",
+                "productNumber": "BK-R68R-44",
+                "color": "Red",
+                "listPrice":  1457.9900,
+                "size":  "44",
+                "serie": "Road-450",
+                "type": "product",
+                "categories": [
+                    "Bikes",
+                    "Road Bikes"
+                ]
+            },
+            {
+                "productId":  757,
+                "name": "Road-450 Red, 48",
+                "productNumber": "BK-R68R-48",
+                "color": "Red",
+                "listPrice":  1457.9900,
+                "size":  "48",
+                "serie": "Road-450",
+                "type": "product",
+                "categories": [
+                    "Bikes",
+                    "Road Bikes"
+                ]
+            },
+            {
+                "productId":  758,
+                "name": "Road-450 Red, 52",
+                "productNumber": "BK-R68R-52",
+                "color": "Red",
+                "listPrice":  1457.9900,
+                "size":  "52",
+                "serie": "Road-450",
+                "type": "product",
+                "categories": [
+                    "Bikes",
+                    "Road Bikes"
+                ]
+            },
+            {
+                "productId":  797,
+                "name": "Road-550-W Yellow, 38",
+                "productNumber": "BK-R64Y-38",
+                "color": "Yellow",
+                "listPrice":  1120.4900,
+                "size":  "38",
+                "serie": "Road-550-W",
+                "type": "product",
+                "categories": [
+                    "Bikes",
+                    "Road Bikes"
+                ]
+            },
+            {
+                "productId":  798,
+                "name": "Road-550-W Yellow, 40",
+                "productNumber": "BK-R64Y-40",
+                "color": "Yellow",
+                "listPrice":  1120.4900,
+                "size":  "40",
+                "serie": "Road-550-W",
+                "type": "product",
+                "categories": [
+                    "Bikes",
+                    "Road Bikes"
+                ]
+            },
+            {
+                "productId":  799,
+                "name": "Road-550-W Yellow, 42",
+                "productNumber": "BK-R64Y-42",
+                "color": "Yellow",
+                "listPrice":  1120.4900,
+                "size":  "42",
+                "serie": "Road-550-W",
+                "type": "product",
+                "categories": [
+                    "Bikes",
+                    "Road Bikes"
+                ]
+            },
+            {
+                "productId":  800,
+                "name": "Road-550-W Yellow, 44",
+                "productNumber": "BK-R64Y-44",
+                "color": "Yellow",
+                "listPrice":  1120.4900,
+                "size":  "44",
+                "serie": "Road-550-W",
+                "type": "product",
+                "categories": [
+                    "Bikes",
+                    "Road Bikes"
+                ]
+            },
+            {
+                "productId":  801,
+                "name": "Road-550-W Yellow, 48",
+                "productNumber": "BK-R64Y-48",
+                "color": "Yellow",
+                "listPrice":  1120.4900,
+                "size":  "48",
+                "serie": "Road-550-W",
+                "type": "product",
+                "categories": [
+                    "Bikes",
+                    "Road Bikes"
+                ]
+            },
+            {
+                "productId":  759,
+                "name": "Road-650 Red, 58",
+                "productNumber": "BK-R50R-58",
+                "color": "Red",
+                "listPrice":  782.9900,
+                "size":  "58",
+                "serie": "Road-650",
+                "type": "product",
+                "categories": [
+                    "Bikes",
+                    "Road Bikes"
+                ]
+            },
+            {
+                "productId":  760,
+                "name": "Road-650 Red, 60",
+                "productNumber": "BK-R50R-60",
+                "color": "Red",
+                "listPrice":  782.9900,
+                "size":  "60",
+                "serie": "Road-650",
+                "type": "product",
+                "categories": [
+                    "Bikes",
+                    "Road Bikes"
+                ]
+            },
+            {
+                "productId":  761,
+                "name": "Road-650 Red, 62",
+                "productNumber": "BK-R50R-62",
+                "color": "Red",
+                "listPrice":  782.9900,
+                "size":  "62",
+                "serie": "Road-650",
+                "type": "product",
+                "categories": [
+                    "Bikes",
+                    "Road Bikes"
+                ]
+            },
+            {
+                "productId":  762,
+                "name": "Road-650 Red, 44",
+                "productNumber": "BK-R50R-44",
+                "color": "Red",
+                "listPrice":  782.9900,
+                "size":  "44",
+                "serie": "Road-650",
+                "type": "product",
+                "categories": [
+                    "Bikes",
+                    "Road Bikes"
+                ]
+            },
+            {
+                "productId":  763,
+                "name": "Road-650 Red, 48",
+                "productNumber": "BK-R50R-48",
+                "color": "Red",
+                "listPrice":  782.9900,
+                "size":  "48",
+                "serie": "Road-650",
+                "type": "product",
+                "categories": [
+                    "Bikes",
+                    "Road Bikes"
+                ]
+            },
+            {
+                "productId":  764,
+                "name": "Road-650 Red, 52",
+                "productNumber": "BK-R50R-52",
+                "color": "Red",
+                "listPrice":  782.9900,
+                "size":  "52",
+                "serie": "Road-650",
+                "type": "product",
+                "categories": [
+                    "Bikes",
+                    "Road Bikes"
+                ]
+            },
+            {
+                "productId":  765,
+                "name": "Road-650 Black, 58",
+                "productNumber": "BK-R50B-58",
+                "color": "Black",
+                "listPrice":  782.9900,
+                "size":  "58",
+                "serie": "Road-650",
+                "type": "product",
+                "categories": [
+                    "Bikes",
+                    "Road Bikes"
+                ]
+            },
+            {
+                "productId":  766,
+                "name": "Road-650 Black, 60",
+                "productNumber": "BK-R50B-60",
+                "color": "Black",
+                "listPrice":  782.9900,
+                "size":  "60",
+                "serie": "Road-650",
+                "type": "product",
+                "categories": [
+                    "Bikes",
+                    "Road Bikes"
+                ]
+            },
+            {
+                "productId":  767,
+                "name": "Road-650 Black, 62",
+                "productNumber": "BK-R50B-62",
+                "color": "Black",
+                "listPrice":  782.9900,
+                "size":  "62",
+                "serie": "Road-650",
+                "type": "product",
+                "categories": [
+                    "Bikes",
+                    "Road Bikes"
+                ]
+            },
+            {
+                "productId":  768,
+                "name": "Road-650 Black, 44",
+                "productNumber": "BK-R50B-44",
+                "color": "Black",
+                "listPrice":  782.9900,
+                "size":  "44",
+                "serie": "Road-650",
+                "type": "product",
+                "categories": [
+                    "Bikes",
+                    "Road Bikes"
+                ]
+            },
+            {
+                "productId":  769,
+                "name": "Road-650 Black, 48",
+                "productNumber": "BK-R50B-48",
+                "color": "Black",
+                "listPrice":  782.9900,
+                "size":  "48",
+                "serie": "Road-650",
+                "type": "product",
+                "categories": [
+                    "Bikes",
+                    "Road Bikes"
+                ]
+            },
+            {
+                "productId":  770,
+                "name": "Road-650 Black, 52",
+                "productNumber": "BK-R50B-52",
+                "color": "Black",
+                "listPrice":  782.9900,
+                "size":  "52",
+                "serie": "Road-650",
+                "type": "product",
+                "categories": [
+                    "Bikes",
+                    "Road Bikes"
+                ]
+            },
+            {
+                "productId":  977,
+                "name": "Road-750 Black, 58",
+                "productNumber": "BK-R19B-58",
+                "color": "Black",
+                "listPrice":  539.9900,
+                "size":  "58",
+                "serie": "Road-750",
+                "type": "product",
+                "categories": [
+                    "Bikes",
+                    "Road Bikes"
+                ]
+            },
+            {
+                "productId":  997,
+                "name": "Road-750 Black, 44",
+                "productNumber": "BK-R19B-44",
+                "color": "Black",
+                "listPrice":  539.9900,
+                "size":  "44",
+                "serie": "Road-750",
+                "type": "product",
+                "categories": [
+                    "Bikes",
+                    "Road Bikes"
+                ]
+            },
+            {
+                "productId":  998,
+                "name": "Road-750 Black, 48",
+                "productNumber": "BK-R19B-48",
+                "color": "Black",
+                "listPrice":  539.9900,
+                "size":  "48",
+                "serie": "Road-750",
+                "type": "product",
+                "categories": [
+                    "Bikes",
+                    "Road Bikes"
+                ]
+            },
+            {
+                "productId":  999,
+                "name": "Road-750 Black, 52",
+                "productNumber": "BK-R19B-52",
+                "color": "Black",
+                "listPrice":  539.9900,
+                "size":  "52",
+                "serie": "Road-750",
+                "type": "product",
+                "categories": [
+                    "Bikes",
+                    "Road Bikes"
+                ]
+            },
+            {
+                "productId":  881,
+                "name": "Short-Sleeve Classic Jersey, S",
+                "productNumber": "SJ-0194-S",
+                "color": "Yellow",
+                "listPrice":  53.9900,
+                "size": "S",
+                "serie": "Short-Sleeve Classic Jersey",
+                "type": "product",
+                "categories": [
+                    "Clothing",
+                    "Jerseys"
+                ]
+            },
+            {
+                "productId":  882,
+                "name": "Short-Sleeve Classic Jersey, M",
+                "productNumber": "SJ-0194-M",
+                "color": "Yellow",
+                "listPrice":  53.9900,
+                "size": "M",
+                "serie": "Short-Sleeve Classic Jersey",
+                "type": "product",
+                "categories": [
+                    "Clothing",
+                    "Jerseys"
+                ]
+            },
+            {
+                "productId":  883,
+                "name": "Short-Sleeve Classic Jersey, L",
+                "productNumber": "SJ-0194-L",
+                "color": "Yellow",
+                "listPrice":  53.9900,
+                "size": "L",
+                "serie": "Short-Sleeve Classic Jersey",
+                "type": "product",
+                "categories": [
+                    "Clothing",
+                    "Jerseys"
+                ]
+            },
+            {
+                "productId":  884,
+                "name": "Short-Sleeve Classic Jersey, XL",
+                "productNumber": "SJ-0194-X",
+                "color": "Yellow",
+                "listPrice":  53.9900,
+                "size": "XL",
+                "serie": "Short-Sleeve Classic Jersey",
+                "type": "product",
+                "categories": [
+                    "Clothing",
+                    "Jerseys"
+                ]
+            },
+            {
+                "productId":  711,
+                "name": "Sport-100 Helmet, Blue",
+                "productNumber": "HL-U509-B",
+                "color": "Blue",
+                "listPrice":  34.9900,
+                "serie": "Sport-100",
+                "type": "product",
+                "categories": [
+                    "Accessories",
+                    "Helmets"
+                ]
+            },
+            {
+                "productId":  707,
+                "name": "Sport-100 Helmet, Red",
+                "productNumber": "HL-U509-R",
+                "color": "Red",
+                "listPrice":  34.9900,
+                "serie": "Sport-100",
+                "type": "product",
+                "categories": [
+                    "Accessories",
+                    "Helmets"
+                ]
+            },
+            {
+                "productId":  708,
+                "name": "Sport-100 Helmet, Black",
+                "productNumber": "HL-U509",
+                "color": "Black",
+                "listPrice":  34.9900,
+                "serie": "Sport-100",
+                "type": "product",
+                "categories": [
+                    "Accessories",
+                    "Helmets"
+                ]
+            },
+            {
+                "productId":  954,
+                "name": "Touring-1000 Yellow, 46",
+                "productNumber": "BK-T79Y-46",
+                "color": "Yellow",
+                "listPrice":  2384.0700,
+                "size":  "46",
+                "serie": "Touring-1000",
+                "type": "product",
+                "categories": [
+                    "Bikes",
+                    "Touring Bikes"
+                ]
+            },
+            {
+                "productId":  955,
+                "name": "Touring-1000 Yellow, 50",
+                "productNumber": "BK-T79Y-50",
+                "color": "Yellow",
+                "listPrice":  2384.0700,
+                "size":  "50",
+                "serie": "Touring-1000",
+                "type": "product",
+                "categories": [
+                    "Bikes",
+                    "Touring Bikes"
+                ]
+            },
+            {
+                "productId":  956,
+                "name": "Touring-1000 Yellow, 54",
+                "productNumber": "BK-T79Y-54",
+                "color": "Yellow",
+                "listPrice":  2384.0700,
+                "size":  "54",
+                "serie": "Touring-1000",
+                "type": "product",
+                "categories": [
+                    "Bikes",
+                    "Touring Bikes"
+                ]
+            },
+            {
+                "productId":  957,
+                "name": "Touring-1000 Yellow, 60",
+                "productNumber": "BK-T79Y-60",
+                "color": "Yellow",
+                "listPrice":  2384.0700,
+                "size":  "60",
+                "serie": "Touring-1000",
+                "type": "product",
+                "categories": [
+                    "Bikes",
+                    "Touring Bikes"
+                ]
+            },
+            {
+                "productId":  966,
+                "name": "Touring-1000 Blue, 46",
+                "productNumber": "BK-T79U-46",
+                "color": "Blue",
+                "listPrice":  2384.0700,
+                "size":  "46",
+                "serie": "Touring-1000",
+                "type": "product",
+                "categories": [
+                    "Bikes",
+                    "Touring Bikes"
+                ]
+            },
+            {
+                "productId":  967,
+                "name": "Touring-1000 Blue, 50",
+                "productNumber": "BK-T79U-50",
+                "color": "Blue",
+                "listPrice":  2384.0700,
+                "size":  "50",
+                "serie": "Touring-1000",
+                "type": "product",
+                "categories": [
+                    "Bikes",
+                    "Touring Bikes"
+                ]
+            },
+            {
+                "productId":  968,
+                "name": "Touring-1000 Blue, 54",
+                "productNumber": "BK-T79U-54",
+                "color": "Blue",
+                "listPrice":  2384.0700,
+                "size":  "54",
+                "serie": "Touring-1000",
+                "type": "product",
+                "categories": [
+                    "Bikes",
+                    "Touring Bikes"
+                ]
+            },
+            {
+                "productId":  969,
+                "name": "Touring-1000 Blue, 60",
+                "productNumber": "BK-T79U-60",
+                "color": "Blue",
+                "listPrice":  2384.0700,
+                "size":  "60",
+                "serie": "Touring-1000",
+                "type": "product",
+                "categories": [
+                    "Bikes",
+                    "Touring Bikes"
+                ]
+            },
+            {
+                "productId":  970,
+                "name": "Touring-2000 Blue, 46",
+                "productNumber": "BK-T44U-46",
+                "color": "Blue",
+                "listPrice":  1214.8500,
+                "size":  "46",
+                "serie": "Touring-2000",
+                "type": "product",
+                "categories": [
+                    "Bikes",
+                    "Touring Bikes"
+                ]
+            },
+            {
+                "productId":  971,
+                "name": "Touring-2000 Blue, 50",
+                "productNumber": "BK-T44U-50",
+                "color": "Blue",
+                "listPrice":  1214.8500,
+                "size":  "50",
+                "serie": "Touring-2000",
+                "type": "product",
+                "categories": [
+                    "Bikes",
+                    "Touring Bikes"
+                ]
+            },
+            {
+                "productId":  972,
+                "name": "Touring-2000 Blue, 54",
+                "productNumber": "BK-T44U-54",
+                "color": "Blue",
+                "listPrice":  1214.8500,
+                "size":  "54",
+                "serie": "Touring-2000",
+                "type": "product",
+                "categories": [
+                    "Bikes",
+                    "Touring Bikes"
+                ]
+            },
+            {
+                "productId":  953,
+                "name": "Touring-2000 Blue, 60",
+                "productNumber": "BK-T44U-60",
+                "color": "Blue",
+                "listPrice":  1214.8500,
+                "size":  "60",
+                "serie": "Touring-2000",
+                "type": "product",
+                "categories": [
+                    "Bikes",
+                    "Touring Bikes"
+                ]
+            },
+            {
+                "productId":  958,
+                "name": "Touring-3000 Blue, 54",
+                "productNumber": "BK-T18U-54",
+                "color": "Blue",
+                "listPrice":  742.3500,
+                "size":  "54",
+                "serie": "Touring-3000",
+                "type": "product",
+                "categories": [
+                    "Bikes",
+                    "Touring Bikes"
+                ]
+            },
+            {
+                "productId":  959,
+                "name": "Touring-3000 Blue, 58",
+                "productNumber": "BK-T18U-58",
+                "color": "Blue",
+                "listPrice":  742.3500,
+                "size":  "58",
+                "serie": "Touring-3000",
+                "type": "product",
+                "categories": [
+                    "Bikes",
+                    "Touring Bikes"
+                ]
+            },
+            {
+                "productId":  960,
+                "name": "Touring-3000 Blue, 62",
+                "productNumber": "BK-T18U-62",
+                "color": "Blue",
+                "listPrice":  742.3500,
+                "size":  "62",
+                "serie": "Touring-3000",
+                "type": "product",
+                "categories": [
+                    "Bikes",
+                    "Touring Bikes"
+                ]
+            },
+            {
+                "productId":  961,
+                "name": "Touring-3000 Yellow, 44",
+                "productNumber": "BK-T18Y-44",
+                "color": "Yellow",
+                "listPrice":  742.3500,
+                "size":  "44",
+                "serie": "Touring-3000",
+                "type": "product",
+                "categories": [
+                    "Bikes",
+                    "Touring Bikes"
+                ]
+            },
+            {
+                "productId":  962,
+                "name": "Touring-3000 Yellow, 50",
+                "productNumber": "BK-T18Y-50",
+                "color": "Yellow",
+                "listPrice":  742.3500,
+                "size":  "50",
+                "serie": "Touring-3000",
+                "type": "product",
+                "categories": [
+                    "Bikes",
+                    "Touring Bikes"
+                ]
+            },
+            {
+                "productId":  963,
+                "name": "Touring-3000 Yellow, 54",
+                "productNumber": "BK-T18Y-54",
+                "color": "Yellow",
+                "listPrice":  742.3500,
+                "size":  "54",
+                "serie": "Touring-3000",
+                "type": "product",
+                "categories": [
+                    "Bikes",
+                    "Touring Bikes"
+                ]
+            },
+            {
+                "productId":  964,
+                "name": "Touring-3000 Yellow, 58",
+                "productNumber": "BK-T18Y-58",
+                "color": "Yellow",
+                "listPrice":  742.3500,
+                "size":  "58",
+                "serie": "Touring-3000",
+                "type": "product",
+                "categories": [
+                    "Bikes",
+                    "Touring Bikes"
+                ]
+            },
+            {
+                "productId":  965,
+                "name": "Touring-3000 Yellow, 62",
+                "productNumber": "BK-T18Y-62",
+                "color": "Yellow",
+                "listPrice":  742.3500,
+                "size":  "62",
+                "serie": "Touring-3000",
+                "type": "product",
+                "categories": [
+                    "Bikes",
+                    "Touring Bikes"
+                ]
+            },
+            {
+                "productId":  978,
+                "name": "Touring-3000 Blue, 44",
+                "productNumber": "BK-T18U-44",
+                "color": "Blue",
+                "listPrice":  742.3500,
+                "size":  "44",
+                "serie": "Touring-3000",
+                "type": "product",
+                "categories": [
+                    "Bikes",
+                    "Touring Bikes"
+                ]
+            },
+            {
+                "productId":  979,
+                "name": "Touring-3000 Blue, 50",
+                "productNumber": "BK-T18U-50",
+                "color": "Blue",
+                "listPrice":  742.3500,
+                "size":  "50",
+                "serie": "Touring-3000",
+                "type": "product",
+                "categories": [
+                    "Bikes",
+                    "Touring Bikes"
+                ]
+            },
+            {
+                "productId":  867,
+                "name": "Women's Mountain Shorts, S",
+                "productNumber": "SH-W890-S",
+                "color": "Black",
+                "listPrice":  69.9900,
+                "size": "S",
+                "serie": "Women's Mountain Shorts",
+                "type": "product",
+                "categories": [
+                    "Clothing",
+                    "Shorts"
+                ]
+            },
+            {
+                "productId":  868,
+                "name": "Women's Mountain Shorts, M",
+                "productNumber": "SH-W890-M",
+                "color": "Black",
+                "listPrice":  69.9900,
+                "size": "M",
+                "serie": "Women's Mountain Shorts",
+                "type": "product",
+                "categories": [
+                    "Clothing",
+                    "Shorts"
+                ]
+            },
+            {
+                "productId":  869,
+                "name": "Women's Mountain Shorts, L",
+                "productNumber": "SH-W890-L",
+                "color": "Black",
+                "listPrice":  69.9900,
+                "size": "L",
+                "serie": "Women's Mountain Shorts",
+                "type": "product",
+                "categories": [
+                    "Clothing",
+                    "Shorts"
+                ]
+            },
+            {
+                "productId":  852,
+                "name": "Women's Tights, S",
+                "productNumber": "TG-W091-S",
+                "color": "Black",
+                "listPrice":  74.9900,
+                "size": "S",
+                "serie": "Women's Tights",
+                "type": "product",
+                "categories": [
+                    "Clothing",
+                    "Tights"
+                ]
+            },
+            {
+                "productId":  853,
+                "name": "Women's Tights, M",
+                "productNumber": "TG-W091-M",
+                "color": "Black",
+                "listPrice":  74.9900,
+                "size": "M",
+                "serie": "Women's Tights",
+                "type": "product",
+                "categories": [
+                    "Clothing",
+                    "Tights"
+                ]
+            },
+            {
+                "productId":  854,
+                "name": "Women's Tights, L",
+                "productNumber": "TG-W091-L",
+                "color": "Black",
+                "listPrice":  74.9900,
+                "size": "L",
+                "serie": "Women's Tights",
+                "type": "product",
+                "categories": [
+                    "Clothing",
+                    "Tights"
+                ]
+            },
+            {
+                "productId":  815,
+                "name": "LL Mountain Front Wheel",
+                "productNumber": "FW-M423",
+                "color": "Black",
+                "listPrice":  60.7450,
+                "serie": "LL Mountain Front Wheel",
+                "type": "product",
+                "categories": [
+                    "Components",
+                    "Wheels"
+                ]
+            },
+            {
+                "productId":  829,
+                "name": "Touring Rear Wheel",
+                "productNumber": "RW-T905",
+                "color": "Black",
+                "listPrice":  245.0100,
+                "serie": "Touring Rear Wheel",
+                "type": "product",
+                "categories": [
+                    "Components",
+                    "Wheels"
+                ]
+            },
+            {
+                "productId":  821,
+                "name": "Touring Front Wheel",
+                "productNumber": "FW-T905",
+                "color": "Black",
+                "listPrice":  218.0100,
+                "serie": "Touring Front Wheel",
+                "type": "product",
+                "categories": [
+                    "Components",
+                    "Wheels"
+                ]
+            },
+            {
+                "productId":  816,
+                "name": "ML Mountain Front Wheel",
+                "productNumber": "FW-M762",
+                "color": "Black",
+                "listPrice":  209.0250,
+                "serie": "ML Mountain Front Wheel",
+                "type": "product",
+                "categories": [
+                    "Components",
+                    "Wheels"
+                ]
+            },
+            {
+                "productId":  817,
+                "name": "HL Mountain Front Wheel",
+                "productNumber": "FW-M928",
+                "color": "Black",
+                "listPrice":  300.2150,
+                "serie": "HL Mountain Front Wheel",
+                "type": "product",
+                "categories": [
+                    "Components",
+                    "Wheels"
+                ]
+            },
+            {
+                "productId":  946,
+                "name": "LL Touring Handlebars",
+                "productNumber": "HB-T721",
+                "listPrice":  46.0900,
+                "serie": "LL Touring Handlebars",
+                "type": "product",
+                "categories": [
+                    "Components",
+                    "Handlebars"
+                ]
+            },
+            {
+                "productId":  947,
+                "name": "HL Touring Handlebars",
+                "productNumber": "HB-T928",
+                "listPrice":  91.5700,
+                "serie": "HL Touring Handlebars",
+                "type": "product",
+                "categories": [
+                    "Components",
+                    "Handlebars"
+                ]
+            },
+            {
+                "productId":  818,
+                "name": "LL Road Front Wheel",
+                "productNumber": "FW-R623",
+                "color": "Black",
+                "listPrice":  85.5650,
+                "serie": "LL Road Front Wheel",
+                "type": "product",
+                "categories": [
+                    "Components",
+                    "Wheels"
+                ]
+            },
+            {
+                "productId":  819,
+                "name": "ML Road Front Wheel",
+                "productNumber": "FW-R762",
+                "color": "Black",
+                "listPrice":  248.3850,
+                "serie": "ML Road Front Wheel",
+                "type": "product",
+                "categories": [
+                    "Components",
+                    "Wheels"
+                ]
+            },
+            {
+                "productId":  820,
+                "name": "HL Road Front Wheel",
+                "productNumber": "FW-R820",
+                "color": "Black",
+                "listPrice":  330.0600,
+                "serie": "HL Road Front Wheel",
+                "type": "product",
+                "categories": [
+                    "Components",
+                    "Wheels"
+                ]
+            },
+            {
+                "productId":  808,
+                "name": "LL Mountain Handlebars",
+                "productNumber": "HB-M243",
+                "listPrice":  44.5400,
+                "serie": "LL Mountain Handlebars",
+                "type": "product",
+                "categories": [
+                    "Components",
+                    "Handlebars"
+                ]
+            },
+            {
+                "productId":  941,
+                "name": "Touring Pedal",
+                "productNumber": "PD-T852",
+                "color": "Silver/Black",
+                "listPrice":  80.9900,
+                "serie": "Touring Pedal",
+                "type": "product",
+                "categories": [
+                    "Components",
+                    "Pedals"
+                ]
+            },
+            {
+                "productId":  809,
+                "name": "ML Mountain Handlebars",
+                "productNumber": "HB-M763",
+                "listPrice":  61.9200,
+                "serie": "ML Mountain Handlebars",
+                "type": "product",
+                "categories": [
+                    "Components",
+                    "Handlebars"
+                ]
+            },
+            {
+                "productId":  810,
+                "name": "HL Mountain Handlebars",
+                "productNumber": "HB-M918",
+                "listPrice":  120.2700,
+                "serie": "HL Mountain Handlebars",
+                "type": "product",
+                "categories": [
+                    "Components",
+                    "Handlebars"
+                ]
+            },
+            {
+                "productId":  811,
+                "name": "LL Road Handlebars",
+                "productNumber": "HB-R504",
+                "listPrice":  44.5400,
+                "serie": "LL Road Handlebars",
+                "type": "product",
+                "categories": [
+                    "Components",
+                    "Handlebars"
+                ]
+            },
+            {
+                "productId":  812,
+                "name": "ML Road Handlebars",
+                "productNumber": "HB-R720",
+                "listPrice":  61.9200,
+                "serie": "ML Road Handlebars",
+                "type": "product",
+                "categories": [
+                    "Components",
+                    "Handlebars"
+                ]
+            },
+            {
+                "productId":  813,
+                "name": "HL Road Handlebars",
+                "productNumber": "HB-R956",
+                "listPrice":  120.2700,
+                "serie": "HL Road Handlebars",
+                "type": "product",
+                "categories": [
+                    "Components",
+                    "Handlebars"
+                ]
+            },
+            {
+                "productId":  805,
+                "name": "LL Headset",
+                "productNumber": "HS-0296",
+                "listPrice":  34.2000,
+                "serie": "LL Headset",
+                "type": "product",
+                "categories": [
+                    "Components",
+                    "Headsets"
+                ]
+            },
+            {
+                "productId":  806,
+                "name": "ML Headset",
+                "productNumber": "HS-2451",
+                "listPrice":  102.2900,
+                "serie": "ML Headset",
+                "type": "product",
+                "categories": [
+                    "Components",
+                    "Headsets"
+                ]
+            },
+            {
+                "productId":  807,
+                "name": "HL Headset",
+                "productNumber": "HS-3479",
+                "listPrice":  124.7300,
+                "serie": "HL Headset",
+                "type": "product",
+                "categories": [
+                    "Components",
+                    "Headsets"
+                ]
+            },
+            {
+                "productId":  935,
+                "name": "LL Mountain Pedal",
+                "productNumber": "PD-M282",
+                "color": "Silver/Black",
+                "listPrice":  40.4900,
+                "serie": "LL Mountain Pedal",
+                "type": "product",
+                "categories": [
+                    "Components",
+                    "Pedals"
+                ]
+            },
+            {
+                "productId":  936,
+                "name": "ML Mountain Pedal",
+                "productNumber": "PD-M340",
+                "color": "Silver/Black",
+                "listPrice":  62.0900,
+                "serie": "ML Mountain Pedal",
+                "type": "product",
+                "categories": [
+                    "Components",
+                    "Pedals"
+                ]
+            },
+            {
+                "productId":  937,
+                "name": "HL Mountain Pedal",
+                "productNumber": "PD-M562",
+                "color": "Silver/Black",
+                "listPrice":  80.9900,
+                "serie": "HL Mountain Pedal",
+                "type": "product",
+                "categories": [
+                    "Components",
+                    "Pedals"
+                ]
+            },
+            {
+                "productId":  915,
+                "name": "ML Touring Seat/Saddle",
+                "productNumber": "SE-T762",
+                "listPrice":  39.1400,
+                "serie": "ML Touring Seat/Saddle",
+                "type": "product",
+                "categories": [
+                    "Components",
+                    "Saddles"
+                ]
+            },
+            {
+                "productId":  914,
+                "name": "LL Touring Seat/Saddle",
+                "productNumber": "SE-T312",
+                "listPrice":  27.1200,
+                "serie": "LL Touring Seat/Saddle",
+                "type": "product",
+                "categories": [
+                    "Components",
+                    "Saddles"
+                ]
+            },
+            {
+                "productId":  916,
+                "name": "HL Touring Seat/Saddle",
+                "productNumber": "SE-T924",
+                "listPrice":  52.6400,
+                "serie": "HL Touring Seat/Saddle",
+                "type": "product",
+                "categories": [
+                    "Components",
+                    "Saddles"
+                ]
+            },
+            {
+                "productId":  938,
+                "name": "LL Road Pedal",
+                "productNumber": "PD-R347",
+                "color": "Silver/Black",
+                "listPrice":  40.4900,
+                "serie": "LL Road Pedal",
+                "type": "product",
+                "categories": [
+                    "Components",
+                    "Pedals"
+                ]
+            },
+            {
+                "productId":  939,
+                "name": "ML Road Pedal",
+                "productNumber": "PD-R563",
+                "color": "Silver/Black",
+                "listPrice":  62.0900,
+                "serie": "ML Road Pedal",
+                "type": "product",
+                "categories": [
+                    "Components",
+                    "Pedals"
+                ]
+            },
+            {
+                "productId":  940,
+                "name": "HL Road Pedal",
+                "productNumber": "PD-R853",
+                "color": "Silver/Black",
+                "listPrice":  80.9900,
+                "serie": "HL Road Pedal",
+                "type": "product",
+                "categories": [
+                    "Components",
+                    "Pedals"
+                ]
+            },
+            {
+                "productId":  827,
+                "name": "ML Road Rear Wheel",
+                "productNumber": "RW-R762",
+                "color": "Black",
+                "listPrice":  275.3850,
+                "serie": "ML Road Rear Wheel",
+                "type": "product",
+                "categories": [
+                    "Components",
+                    "Wheels"
+                ]
+            },
+            {
+                "productId":  828,
+                "name": "HL Road Rear Wheel",
+                "productNumber": "RW-R820",
+                "color": "Black",
+                "listPrice":  357.0600,
+                "serie": "HL Road Rear Wheel",
+                "type": "product",
+                "categories": [
+                    "Components",
+                    "Wheels"
+                ]
+            },
+            {
+                "productId":  908,
+                "name": "LL Mountain Seat/Saddle",
+                "productNumber": "SE-M236",
+                "listPrice":  27.1200,
+                "serie": "LL Mountain Seat/Saddle 2",
+                "type": "product",
+                "categories": [
+                    "Components",
+                    "Saddles"
+                ]
+            },
+            {
+                "productId":  909,
+                "name": "ML Mountain Seat/Saddle",
+                "productNumber": "SE-M798",
+                "listPrice":  39.1400,
+                "serie": "ML Mountain Seat/Saddle 2",
+                "type": "product",
+                "categories": [
+                    "Components",
+                    "Saddles"
+                ]
+            },
+            {
+                "productId":  910,
+                "name": "HL Mountain Seat/Saddle",
+                "productNumber": "SE-M940",
+                "listPrice":  52.6400,
+                "serie": "HL Mountain Seat/Saddle 2",
+                "type": "product",
+                "categories": [
+                    "Components",
+                    "Saddles"
+                ]
+            },
+            {
+                "productId":  911,
+                "name": "LL Road Seat/Saddle",
+                "productNumber": "SE-R581",
+                "listPrice":  27.1200,
+                "serie": "LL Road Seat/Saddle 1",
+                "type": "product",
+                "categories": [
+                    "Components",
+                    "Saddles"
+                ]
+            },
+            {
+                "productId":  912,
+                "name": "ML Road Seat/Saddle",
+                "productNumber": "SE-R908",
+                "listPrice":  39.1400,
+                "serie": "ML Road Seat/Saddle 2",
+                "type": "product",
+                "categories": [
+                    "Components",
+                    "Saddles"
+                ]
+            },
+            {
+                "productId":  913,
+                "name": "HL Road Seat/Saddle",
+                "productNumber": "SE-R995",
+                "listPrice":  52.6400,
+                "serie": "HL Road Seat/Saddle 2",
+                "type": "product",
+                "categories": [
+                    "Components",
+                    "Saddles"
+                ]
+            },
+            {
+                "productId":  928,
+                "name": "LL Mountain Tire",
+                "productNumber": "TI-M267",
+                "listPrice":  24.9900,
+                "serie": "LL Mountain Tire",
+                "type": "product",
+                "categories": [
+                    "Accessories",
+                    "Tires and Tubes"
+                ]
+            },
+            {
+                "productId":  929,
+                "name": "ML Mountain Tire",
+                "productNumber": "TI-M602",
+                "listPrice":  29.9900,
+                "serie": "ML Mountain Tire",
+                "type": "product",
+                "categories": [
+                    "Accessories",
+                    "Tires and Tubes"
+                ]
+            },
+            {
+                "productId":  930,
+                "name": "HL Mountain Tire",
+                "productNumber": "TI-M823",
+                "listPrice":  35.0000,
+                "serie": "HL Mountain Tire",
+                "type": "product",
+                "categories": [
+                    "Accessories",
+                    "Tires and Tubes"
+                ]
+            },
+            {
+                "productId":  931,
+                "name": "LL Road Tire",
+                "productNumber": "TI-R092",
+                "listPrice":  21.4900,
+                "serie": "LL Road Tire",
+                "type": "product",
+                "categories": [
+                    "Accessories",
+                    "Tires and Tubes"
+                ]
+            },
+            {
+                "productId":  932,
+                "name": "ML Road Tire",
+                "productNumber": "TI-R628",
+                "listPrice":  24.9900,
+                "serie": "ML Road Tire",
+                "type": "product",
+                "categories": [
+                    "Accessories",
+                    "Tires and Tubes"
+                ]
+            },
+            {
+                "productId":  933,
+                "name": "HL Road Tire",
+                "productNumber": "TI-R982",
+                "listPrice":  32.6000,
+                "serie": "HL Road Tire",
+                "type": "product",
+                "categories": [
+                    "Accessories",
+                    "Tires and Tubes"
+                ]
+            },
+            {
+                "productId":  934,
+                "name": "Touring Tire",
+                "productNumber": "TI-T723",
+                "listPrice":  28.9900,
+                "serie": "Touring Tire",
+                "type": "product",
+                "categories": [
+                    "Accessories",
+                    "Tires and Tubes"
+                ]
+            },
+            {
+                "productId":  921,
+                "name": "Mountain Tire Tube",
+                "productNumber": "TT-M928",
+                "listPrice":  4.9900,
+                "serie": "Mountain Tire Tube",
+                "type": "product",
+                "categories": [
+                    "Accessories",
+                    "Tires and Tubes"
+                ]
+            },
+            {
+                "productId":  922,
+                "name": "Road Tire Tube",
+                "productNumber": "TT-R982",
+                "listPrice":  3.9900,
+                "serie": "Road Tire Tube",
+                "type": "product",
+                "categories": [
+                    "Accessories",
+                    "Tires and Tubes"
+                ]
+            },
+            {
+                "productId":  923,
+                "name": "Touring Tire Tube",
+                "productNumber": "TT-T092",
+                "listPrice":  4.9900,
+                "serie": "Touring Tire Tube",
+                "type": "product",
+                "categories": [
+                    "Accessories",
+                    "Tires and Tubes"
+                ]
+            },
+            {
+                "productId":  994,
+                "name": "LL Bottom Bracket",
+                "productNumber": "BB-7421",
+                "listPrice":  53.9900,
+                "serie": "LL Bottom Bracket",
+                "type": "product",
+                "categories": [
+                    "Components",
+                    "Bottom Brackets"
+                ]
+            },
+            {
+                "productId":  995,
+                "name": "ML Bottom Bracket",
+                "productNumber": "BB-8107",
+                "listPrice":  101.2400,
+                "serie": "ML Bottom Bracket",
+                "type": "product",
+                "categories": [
+                    "Components",
+                    "Bottom Brackets"
+                ]
+            },
+            {
+                "productId":  996,
+                "name": "HL Bottom Bracket",
+                "productNumber": "BB-9108",
+                "listPrice":  121.4900,
+                "serie": "HL Bottom Bracket",
+                "type": "product",
+                "categories": [
+                    "Components",
+                    "Bottom Brackets"
+                ]
+            },
+            {
+                "productId":  952,
+                "name": "Chain",
+                "productNumber": "CH-0234",
+                "color": "Silver",
+                "listPrice":  20.2400,
+                "serie": "Chain",
+                "type": "product",
+                "categories": [
+                    "Components",
+                    "Chains"
+                ]
+            },
+            {
+                "productId":  949,
+                "name": "LL Crankset",
+                "productNumber": "CS-4759",
+                "color": "Black",
+                "listPrice":  175.4900,
+                "serie": "LL Crankset",
+                "type": "product",
+                "categories": [
+                    "Components",
+                    "Cranksets"
+                ]
+            },
+            {
+                "productId":  950,
+                "name": "ML Crankset",
+                "productNumber": "CS-6583",
+                "color": "Black",
+                "listPrice":  256.4900,
+                "serie": "ML Crankset",
+                "type": "product",
+                "categories": [
+                    "Components",
+                    "Cranksets"
+                ]
+            },
+            {
+                "productId":  951,
+                "name": "HL Crankset",
+                "productNumber": "CS-9183",
+                "color": "Black",
+                "listPrice":  404.9900,
+                "serie": "HL Crankset",
+                "type": "product",
+                "categories": [
+                    "Components",
+                    "Cranksets"
+                ]
+            },
+            {
+                "productId":  948,
+                "name": "Front Brakes",
+                "productNumber": "FB-9873",
+                "color": "Silver",
+                "listPrice":  106.5000,
+                "serie": "Front Brakes",
+                "type": "product",
+                "categories": [
+                    "Components",
+                    "Brakes"
+                ]
+            },
+            {
+                "productId":  945,
+                "name": "Front Derailleur",
+                "productNumber": "FD-2342",
+                "color": "Silver",
+                "listPrice":  91.4900,
+                "serie": "Front Derailleur",
+                "type": "product",
+                "categories": [
+                    "Components",
+                    "Derailleurs"
+                ]
+            },
+            {
+                "productId":  802,
+                "name": "LL Fork",
+                "productNumber": "FK-1639",
+                "listPrice":  148.2200,
+                "serie": "LL Fork",
+                "type": "product",
+                "categories": [
+                    "Components",
+                    "Forks"
+                ]
+            },
+            {
+                "productId":  803,
+                "name": "ML Fork",
+                "productNumber": "FK-5136",
+                "listPrice":  175.4900,
+                "serie": "ML Fork",
+                "type": "product",
+                "categories": [
+                    "Components",
+                    "Forks"
+                ]
+            },
+            {
+                "productId":  804,
+                "name": "HL Fork",
+                "productNumber": "FK-9939",
+                "listPrice":  229.4900,
+                "serie": "HL Fork",
+                "type": "product",
+                "categories": [
+                    "Components",
+                    "Forks"
+                ]
+            },
+            {
+                "productId":  880,
+                "name": "Hydration Pack - 70 oz.",
+                "productNumber": "HY-1023-70",
+                "color": "Silver",
+                "listPrice":  54.9900,
+                "size":  "70",
+                "serie": "Hydration Pack",
+                "type": "product",
+                "categories": [
+                    "Accessories",
+                    "Hydration Packs"
+                ]
+            },
+            {
+                "productId":  846,
+                "name": "Taillights - Battery-Powered",
+                "productNumber": "LT-T990",
+                "listPrice":  13.9900,
+                "serie": "Taillight",
+                "type": "product",
+                "categories": [
+                    "Accessories",
+                    "Lights"
+                ]
+            },
+            {
+                "productId":  847,
+                "name": "Headlights - Dual-Beam",
+                "productNumber": "LT-H902",
+                "listPrice":  34.9900,
+                "serie": "Headlights - Dual-Beam",
+                "type": "product",
+                "categories": [
+                    "Accessories",
+                    "Lights"
+                ]
+            },
+            {
+                "productId":  848,
+                "name": "Headlights - Weatherproof",
+                "productNumber": "LT-H903",
+                "listPrice":  44.9900,
+                "serie": "Headlights - Weatherproof",
+                "type": "product",
+                "categories": [
+                    "Accessories",
+                    "Lights"
+                ]
+            },
+            {
+                "productId":  870,
+                "name": "Water Bottle - 30 oz.",
+                "productNumber": "WB-H098",
+                "listPrice":  4.9900,
+                "serie": "Water Bottle",
+                "type": "product",
+                "categories": [
+                    "Accessories",
+                    "Bottles and Cages"
+                ]
+            },
+            {
+                "productId":  871,
+                "name": "Mountain Bottle Cage",
+                "productNumber": "BC-M005",
+                "listPrice":  9.9900,
+                "serie": "Mountain Bottle Cage",
+                "type": "product",
+                "categories": [
+                    "Accessories",
+                    "Bottles and Cages"
+                ]
+            },
+            {
+                "productId":  872,
+                "name": "Road Bottle Cage",
+                "productNumber": "BC-R205",
+                "listPrice":  8.9900,
+                "serie": "Road Bottle Cage",
+                "type": "product",
+                "categories": [
+                    "Accessories",
+                    "Bottles and Cages"
+                ]
+            },
+            {
+                "productId":  873,
+                "name": "Patch Kit/8 Patches",
+                "productNumber": "PK-7098",
+                "listPrice":  2.2900,
+                "serie": "Patch kit",
+                "type": "product",
+                "categories": [
+                    "Accessories",
+                    "Tires and Tubes"
+                ]
+            },
+            {
+                "productId":  843,
+                "name": "Cable Lock",
+                "productNumber": "LO-C100",
+                "listPrice":  25.0000,
+                "serie": "Cable Lock",
+                "type": "product",
+                "categories": [
+                    "Accessories",
+                    "Locks"
+                ]
+            },
+            {
+                "productId":  844,
+                "name": "Minipump",
+                "productNumber": "PU-0452",
+                "listPrice":  19.9900,
+                "serie": "Minipump",
+                "type": "product",
+                "categories": [
+                    "Accessories",
+                    "Pumps"
+                ]
+            },
+            {
+                "productId":  845,
+                "name": "Mountain Pump",
+                "productNumber": "PU-M044",
+                "listPrice":  24.9900,
+                "serie": "Mountain Pump",
+                "type": "product",
+                "categories": [
+                    "Accessories",
+                    "Pumps"
+                ]
+            },
+            {
+                "productId":  876,
+                "name": "Hitch Rack - 4-Bike",
+                "productNumber": "RA-H123",
+                "listPrice":  120.0000,
+                "serie": "Hitch Rack - 4-Bike",
+                "type": "product",
+                "categories": [
+                    "Accessories",
+                    "Bike Racks"
+                ]
+            },
+            {
+                "productId":  877,
+                "name": "Bike Wash - Dissolver",
+                "productNumber": "CL-9009",
+                "listPrice":  7.9500,
+                "serie": "Bike Wash",
+                "type": "product",
+                "categories": [
+                    "Accessories",
+                    "Cleaners"
+                ]
+            },
+            {
+                "productId":  842,
+                "name": "Touring-Panniers, Large",
+                "productNumber": "PA-T100",
+                "color": "Grey",
+                "listPrice":  125.0000,
+                "serie": "Touring-Panniers",
+                "type": "product",
+                "categories": [
+                    "Accessories",
+                    "Panniers"
+                ]
+            },
+            {
+                "productId":  878,
+                "name": "Fender Set - Mountain",
+                "productNumber": "FE-6654",
+                "listPrice":  21.9800,
+                "serie": "Fender Set - Mountain",
+                "type": "product",
+                "categories": [
+                    "Accessories",
+                    "Fenders"
+                ]
+            },
+            {
+                "productId":  879,
+                "name": "All-Purpose Bike Stand",
+                "productNumber": "ST-1401",
+                "listPrice":  159.0000,
+                "serie": "All-Purpose Bike Stand",
+                "type": "product",
+                "categories": [
+                    "Accessories",
+                    "Bike Stands"
+                ]
+            },
+            {
+                "productId":  823,
+                "name": "LL Mountain Rear Wheel",
+                "productNumber": "RW-M423",
+                "color": "Black",
+                "listPrice":  87.7450,
+                "serie": "LL Mountain Rear Wheel",
+                "type": "product",
+                "categories": [
+                    "Components",
+                    "Wheels"
+                ]
+            },
+            {
+                "productId":  824,
+                "name": "ML Mountain Rear Wheel",
+                "productNumber": "RW-M762",
+                "color": "Black",
+                "listPrice":  236.0250,
+                "serie": "ML Mountain Rear Wheel",
+                "type": "product",
+                "categories": [
+                    "Components",
+                    "Wheels"
+                ]
+            },
+            {
+                "productId":  825,
+                "name": "HL Mountain Rear Wheel",
+                "productNumber": "RW-M928",
+                "color": "Black",
+                "listPrice":  327.2150,
+                "serie": "HL Mountain Rear Wheel",
+                "type": "product",
+                "categories": [
+                    "Components",
+                    "Wheels"
+                ]
+            },
+            {
+                "productId":  826,
+                "name": "LL Road Rear Wheel",
+                "productNumber": "RW-R623",
+                "color": "Black",
+                "listPrice":  112.5650,
+                "serie": "LL Road Rear Wheel",
+                "type": "product",
+                "categories": [
+                    "Components",
+                    "Wheels"
+                ]
+            },
+            {
+                "productId":  894,
+                "name": "Rear Derailleur",
+                "productNumber": "RD-2308",
+                "color": "Silver",
+                "listPrice":  121.4600,
+                "serie": "Rear Derailleur",
+                "type": "product",
+                "categories": [
+                    "Components",
+                    "Derailleurs"
+                ]
+            },
+            {
+                "productId":  907,
+                "name": "Rear Brakes",
+                "productNumber": "RB-9231",
+                "color": "Silver",
+                "listPrice":  106.5000,
+                "serie": "Rear Brakes",
+                "type": "product",
+                "categories": [
+                    "Components",
+                    "Brakes"
+                ]
+            }
+        ]
